@@ -1,0 +1,2074 @@
+[
+    {
+        "id": "1A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A scientist observes that red blood cells with an irregular, spherical shape are present in a patient's blood sample. Compared to normal biconcave red blood cells, what effect is this most likely to have on oxygen transport?",
+        "options": [
+            "Oxygen transport will be less efficient due to a reduced surface area for diffusion",
+            "Oxygen transport will be more efficient as the spherical shape allows for greater hemoglobin storage",
+            "There will be no change in oxygen transport since all red blood cells contain the same amount of hemoglobin",
+            "Oxygen transport will increase because spherical cells have a shorter diffusion distance"
+        ],
+        "correctAnswer": "Oxygen transport will be less efficient due to a reduced surface area for diffusion",
+        "explanation": "The biconcave shape of red blood cells increases their surface area, enhancing the rate of diffusion of oxygen across the cell membrane. A spherical shape reduces the surface area available for gas exchange, making oxygen diffusion less efficient."
+    },
+    {
+        "id": "1B2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A patient presents with severe liver damage affecting its ability to filter blood. Which major blood vessel is most likely to experience a disruption in normal function due to this condition?",
+        "options": [
+            "Renal artery",
+            "Inferior vena cava",
+            "Hepatic portal vein",
+            "Pulmonary vein"
+        ],
+        "correctAnswer": "Hepatic portal vein",
+        "explanation": "The hepatic portal vein carries nutrient-rich blood from the digestive organs to the liver for processing. Liver damage can impair this function, leading to complications such as toxin buildup and portal hypertension."
+    },
+    {
+        "id": "3A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A patient is diagnosed with a blood clot blocking the inferior vena cava just below the diaphragm. Which of the following is the most likely consequence of this condition?",
+        "options": [
+            "Reduced oxygenation of blood returning to the heart from the lungs",
+            "Impaired drainage of deoxygenated blood from the lower body",
+            "Increased blood flow to the kidneys, leading to high urine output",
+            "Reduced nutrient absorption from the small intestine"
+        ],
+        "correctAnswer": "Impaired drainage of deoxygenated blood from the lower body",
+        "explanation": "The inferior vena cava returns deoxygenated blood from the lower body to the right atrium of the heart. A blockage would impair this drainage, leading to complications such as swelling in the legs and potential circulatory failure."
+    },
+    {
+        "id": "4A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "During ventricular contraction, what prevents the atrioventricular (AV) valves from inverting and allowing blood to flow backward into the atria?",
+        "options": [
+            "The high pressure in the atria during contraction",
+            "The contraction of the papillary muscles and tension in the chordae tendineae",
+            "The presence of semilunar valves in the arteries leaving the heart",
+            "The rapid closing of the pulmonary and aortic valvess"
+        ],
+        "correctAnswer": "The contraction of the papillary muscles and tension in the chordae tendineae",
+        "explanation": "The papillary muscles contract and pull on the chordae tendineae, which prevent the AV valves (tricuspid and bicuspid/mitral valves) from being forced into the atria when the ventricles contract."
+    },
+    {
+        "id": "5A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "Which of the following statements accurately describes the cardiac cycle and the structural differences between the left and right sides of the heart?",
+        "options": [
+            "The left ventricle has a thinner wall than the right ventricle because it pumps blood to the lungs, which are closer to the heart",
+            "The right ventricle has a thicker wall than the left ventricle due to the higher pressure required to pump blood to the body",
+            "The left ventricle has a thicker wall than the right ventricle to generate the greater force needed to pump blood to the body",
+            "The right side of the heart pumps blood to the body, and the left side pumps blood to the lungs"
+        ],
+        "correctAnswer": "The left ventricle has a thicker wall than the right ventricle to generate the greater force needed to pump blood to the body",
+        "explanation": "The left ventricle has a thicker muscular wall compared to the right ventricle to generate the higher pressure required to pump blood throughout the entire body. In contrast, the right ventricle only needs to pump blood to the nearby lungs, so it has a thinner wall."
+    },
+    {
+        "id": "6A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "Which of the following correctly describes the stages of the cardiac cycle?",
+        "options": [
+            "During ventricular systole, ventricular pressure exceeds arterial pressure, causing AV valves to open",
+            "In atrial systole, rising atrial pressure forces AV valves open, allowing blood into ventricles",
+            "During diastole, semilunar valves open as ventricular pressure drops below arterial pressur"
+        ],
+        "correctAnswer": "In atrial systole, rising atrial pressure forces AV valves open, allowing blood into ventricles",
+        "explanation": "During atrial systole, the atria contract, increasing the pressure within them, which forces open the atrioventricular valves and allows blood to flow into the ventricles."
+    },
+    {
+        "id": "7A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "What is the primary role of the sinoatrial node (SAN) in the cardiac cycle?",
+        "options": [
+            "To delay the electrical impulse before it reaches the ventricles",
+            "To prevent backflow of blood into the atria",
+            "To generate electrical impulses that initiate the heartbeat"
+        ],
+        "correctAnswer": "To generate electrical impulses that initiate the heartbeat",
+        "explanation": "The sinoatrial node (SAN) acts as the heart's natural pacemaker, generating electrical impulses that trigger atrial contraction and regulate the heartbeat."
+    },
+    {
+        "id": "8A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A doctor is analyzing a patient’s ECG and notices that the P wave is absent. What does this most likely indicate about the patient's heart activity?",
+        "options": [
+            "The atria are not properly receiving electrical activation",
+            "Impaired ventricular recovery",
+            "The atria are receiving electrical activation, but the ventricles do not receive the signal"
+        ],
+        "correctAnswer": "The atria are not properly receiving electrical activation",
+        "explanation": "P wave shows electrical activation of the atria.\nT wave shows electrical recovery of the ventricles. \nQRS complex shows electrical activation of the ventricles which originates from the sinoatrial node (SAN). \n\nMissing P wave suggests an issue with SAN function."
+    },
+    
+    {
+        "id": "9A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "Select a correct statement about lumen of blood vessels",
+        "options": [
+            "Veins have large lumen as blood needs to move at a low pressure and arteries have a small lumen since blood must be maintained at high pressure",
+            "Arteries have large lumen as blood needs to move at a low pressure and veins have a small lumen since blood must be maintained at high pressure",
+            "Veins have large lumen as blood needs to move at a high pressure and arteries have a small lumen since blood must be maintained at low pressure"
+        ],
+        "correctAnswer": "Veins have large lumen as blood needs to move at a low pressure and arteries have a small lumen since blood must be maintained at high pressure",
+        "explanation": "Veins have a larger lumen because blood flows at a lower pressure, allowing for easier passage of blood back to the heart. In contrast, arteries have a smaller lumen to help maintain high pressure, which is necessary for the transportation of blood from heart to the body."
+    },
+    {
+        "id": "10A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "Select a correct description of a histological structure of arteries, veins and capillaries",
+        "options": [
+            "Capillaries are organs consisting of squamous endothelium only",
+            "Arteries are tissues consisting of smooth muscle and elastic fibers",
+            "Middle layer of veins and arteries is composed of smooth muscle and elastic fibers",
+            "Outer layer of veins and arteries is composed of squamous endothelium"
+        ],
+        "correctAnswer": "Middle layer of veins and arteries is composed of smooth muscle and elastic fibers",
+        "explanation": "The walls of veins and arteries are composed of inner layer(Squamous endothelium), middle layer(smooth muscle and elastic fibres) and outer layer(fibrous tissue)."
+    },
+    {
+        "id": "11A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "Blood is ejected from the heart into the aorta and pulmonary artery during this phase of the cardiac cycle",
+        "options": [
+            "Atrial systole",
+            "Ventricular systole",
+            "Ventricular diastole"
+        ],
+        "correctAnswer": "Ventricular systole",
+        "explanation": "During ventricular systole, the ventricles contract, increasing pressure and forcing the semilunar valves (aortic and pulmonary valves) to open, allowing blood to be ejected into the aorta and pulmonary artery."
+    },
+    {
+        "id": "12A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "What happens once ventricular pressure exceeds arterial pressure during the cardiac cycle?",
+        "options": [
+            "The semilunar valves open, allowing blood to be ejected into the arteries",
+            "Tricuspid and mitral valves open, allowing blood to flow into the ventricles",
+            "Semilunar valves close to prevent blood from flowing into the ventricles from the aorta and pulmonary artery"
+        ],
+        "correctAnswer": "The semilunar valves open, allowing blood to be ejected into the arteries",
+        "explanation": "When ventricular pressure exceeds arterial pressure, the semilunar valves (aortic and pulmonary) open, allowing blood to be ejected into the aorta and pulmonary artery."
+    },
+    {
+        "id": "13A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "What is the correct sequence of electrical excitation in the heart?",
+        "options": [
+            "AV node → SA node → Purkinje fibers → Bundle of His",
+            "SA node → AV node → Bundle of His → Purkinje fibers",
+            "SA node → Bundle of His → AV node → Purkinje fibers",
+            "Purkinje fibers → SA node → AV node → Bundle of His"
+        ],
+        "correctAnswer": "SA node → AV node → Bundle of His → Purkinje fibers",
+        "explanation": "The impulse starts in the SA node, spreads to the AV node, travels through the Bundle of His, and reaches the Purkinje fibers, which stimulate ventricular contraction."
+    },
+    {
+        "id": "14A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "Ventricular volume",
+        "options": [
+            "Increases during ventricular systole",
+            "Decreases during ventricular systole",
+            "Decreases during ventricular diastole",
+            "Stays unchanged through all phases of the cardiac cycle"
+        ],
+        "correctAnswer": "Decreases during ventricular systole",
+        "explanation": "During ventricular systole, the ventricles contract, forcing blood into the aorta and pulmonary artery, which reduces ventricular volume."
+    },
+    {
+        "id": "15A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A doctor listens to a patient’s heart using a stethoscope and hears two distinct 'lub-dub' sounds per cardiac cycle. Which event is responsible for the second heart sound ('dub')?",
+        "options": [
+            "Opening of the AV valves",
+            "Closure of the AV valves",
+            "Contraction of the atria",
+            "Closing of the semilunar valves"
+        ],
+        "correctAnswer": "Closing of the semilunar valves",
+        "explanation": "The second heart sound ('dub') occurs when the semilunar valves (aortic & pulmonary) close, marking the start of ventricular diastole."
+    },
+    {
+        "id": "16A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "Which of the following is the primary purpose of angiography in the diagnosis of cardiovascular disease?",
+        "options": [
+            "To measure the blood pressure within arteries",
+            "To identify heart rate abnormalities during exercise",
+            "To assess the strength of heart muscle contractions",
+            "To make blood vessels visible and detect abnormalities such as aneurysms and atherosclerosis"
+        ],
+        "correctAnswer": "To make blood vessels visible and detect abnormalities such as aneurysms and atherosclerosis",
+        "explanation": "In angiography, a special dye is released into an artery making the blood vessels visible when an X-ray is taken. The angiogram shows the blood flow through the blood vessels and allows abnormalities to be detected."
+    },
+    {
+        "id": "17A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A patient with a bacterial infection has a blood test showing a high neutrophil (polymorph) count and a normal monocyte count. What does this suggest about the stage of infection?",
+        "options": [
+            "The infection is in its early stage, as polymorphs are the first line of defense",
+            "The infection is in its chronic phase, as polymorphs only respond to long-term infections",
+            "The body is primarily relying on antibody production rather than phagocytos",
+            "The infection is nearly resolved, and monocytes have taken over the immune response"
+        ],
+        "correctAnswer": "The infection is in its early stage, as polymorphs are the first line of defense",
+        "explanation": "Polymorphs (neutrophils) are the first responders to infections, especially bacterial ones. A high neutrophil count suggests an active, early-stage infection, as they arrive first to engulf and destroy pathogens."
+    },
+    {
+        "id": "18A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A patient is diagnosed with severe viral infection, and tests show a high T-cell count but a normal B-cell count. What does this suggest about the immune response?",
+        "options": [
+            "The immune system is relying on antibody production to neutralize the virus",
+            "The immune response is weakening because B-cells are not increasing",
+            "The body is primarily using cell-mediated immunity to fight infected cells"
+        ],
+        "correctAnswer": "The body is primarily using cell-mediated immunity to fight infected cells",
+        "explanation": "T-cells are responsible for cell-mediated immunity and destroy virus-infected cells directly.\n\nB-cells are responsible for antibody production."
+    },
+    {
+        "id": "19A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "A patient with severe liver disease shows low plasma fibrinogen levels. What is the most likely consequence?",
+        "options": [
+            "Increased blood clotting, leading to excessive clot formation",
+            "Impaired oxygen transport to tissues",
+            "Reduced ability to form blood clots, increasing bleeding risk"
+            
+        ],
+        "correctAnswer": "Reduced ability to form blood clots, increasing bleeding risk",
+        "explanation": "Fibrinogen is essential for blood clotting, and low levels due to liver disease can lead to excessive bleeding and difficulty in clot formation."
+    },
+    {
+        "id": "20A2B3C4D",
+        "topic": "Circulatory system in mammals",
+        "subtopic": "",
+        "question": "How is excess tissue fluid removed from the spaces around cells to prevent swelling (edema)?",
+        "options": [
+            "It is reabsorbed directly into red blood cells",
+            "It drains into the lymphatic system, where it eventually returns to the bloodstream",
+            "It is actively pumped back into capillaries by muscle contractions",
+            "It evaporates from the skin to regulate body temperature"
+        ],
+        "correctAnswer": "It drains into the lymphatic system, where it eventually returns to the bloodstream",
+        "explanation": "Excess tissue fluid is drained into the lymphatic system, where it is filtered and eventually returned to the bloodstream via the subclavian veins."
+    },
+    {
+        "id": "21A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "A small animal, such as a mouse, has a larger surface area to volume ratio compared to a larger animal, such as an elephant. How does this affect the exchange of materials and metabolic demand?",
+        "options": [
+            "The mouse has a higher metabolic demand because its large surface area allows for faster exchange of materials",
+            "The elephant has a higher metabolic demand because its small surface area to volume ratio allows it to lose heat quickly",
+            "The mouse has a lower metabolic demand because it can absorb more heat due to its large surface area"
+        ],
+        "correctAnswer": "The mouse has a higher metabolic demand because its large surface area allows for faster exchange of materials",
+        "explanation": "The mouse has a higher metabolic demand because its large surface area to volume ratio allows rapid exchange of oxygen and nutrients, but also results in greater heat loss, requiring a faster metabolism to maintain body temperature."
+    },
+    {
+        "id": "22A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "How does the surface area to volume ratio affect the supply of metabolites to an organism's tissues?",
+        "options": [
+            "A larger volume means more cells are in direct contact with the external environment, improving metabolite diffusion",
+            "A larger surface area allows for faster exchange, increasing metabolite supply to tissues",
+            "A smaller surface area to volume ratio increases the rate of metabolite supply to tissues",
+            "The surface area to volume ratio has no effect on metabolite supply"
+        ],
+        "correctAnswer": "A larger surface area allows for faster exchange, increasing metabolite supply to tissues",
+        "explanation": "A larger surface area to volume ratio allows for faster exchange of nutrients and gases at exchange surfaces, ensuring tissues receive metabolites efficiently."
+    },
+    {
+        "id": "23A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following increases surface area to improve exchange of materials?",
+        "options": [
+            "The flattened shape of mesophyll cells in leaves",
+            "Thickening of capillary walls to reduce diffusion distance",
+            "Reduced root hair growth in plants to limit mineral uptake",
+            "The spherical shape of alveoli reducing their total exchange surface"
+        ],
+        "correctAnswer": "The flattened shape of mesophyll cells in leaves",
+        "explanation": "The flattened shape of mesophyll cells increases surface area for gas exchange, aiding diffusion of carbon dioxide and oxygen during photosynthesis."
+    },
+    {
+        "id": "24A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following correctly describes a mass transport system in plants or mammals?",
+        "options": [
+            "Phloem transports water and minerals from the roots to the leaves through passive diffusion",
+            "Ventilation in mammals occurs by diffusion alone, with no pressure changes",
+            "Water moves through the xylem via transpiration pull, transporting minerals from roots to leaves",
+            "Capillaries transport blood by creating their own pressure without heart involvement"
+        ],
+        "correctAnswer": "Water moves through the xylem via transpiration pull, transporting minerals from roots to leaves",
+        "explanation": "Xylem transports water and minerals using the transpiration stream, which relies on cohesion, adhesion, and pressure gradients to move water upward."
+    },
+    {
+        "id": "25A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Why do large organisms like flowering plants and mammals require a mass transport system?",
+        "options": [
+            "Diffusion alone is too slow to meet the metabolic demands of all cells",
+            "Mass transport systems prevent water loss by restricting fluid movement",
+            "Active transport cannot function without a mass transport system"
+        ],
+        "correctAnswer": "Diffusion alone is too slow to meet the metabolic demands of all cells",
+        "explanation": "Mass transport systems are needed because diffusion alone is too slow to transport substances efficiently in large multicellular organisms, where many cells are far from the exchange surface."
+    },
+    {
+        "id": "26A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following would increase the rate of gas exchange in an organism?",
+        "options": [
+            "Removing moisture from the exchange surface",
+            "Reducing the concentration gradient for O₂ and CO₂",
+            "Increasing the thickness of the diffusion path",
+            "Increasing the surface area of the exchange surface"
+        ],
+        "correctAnswer": "Increasing the surface area of the exchange surface",
+        "explanation": " A larger surface area provides more space for gas exchange, increasing the rate of diffusion according to Fick’s Law."
+    },
+    {
+        "id": "27A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following correctly describes gas exchange in plants during the day?",
+        "options": [
+            "Carbon dioxide diffuses into the leaf for photosynthesis, while oxygen diffuses out as a byproduct",
+            "Oxygen diffuses into the leaf for photosynthesis, while carbon dioxide diffuses out as a waste product",
+            "The stomata remain closed during the day to prevent gas exchange",
+            "The leaf only carries out respiration during the daytime"
+        ],
+        "correctAnswer": "Carbon dioxide diffuses into the leaf for photosynthesis, while oxygen diffuses out as a byproduct",
+        "explanation": "During the day, plants take in CO₂ for photosynthesis, and oxygen produced as a byproduct diffuses out through the stomata."
+    },
+    {
+        "id": "28A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "A patient with pneumonia has inflammation that causes thickening of the alveolar walls. How will this affect gas exchange?",
+        "options": [
+            "Oxygen and carbon dioxide diffusion will slow down, leading to reduced oxygen uptake",
+            "The alveolar walls will become more permeable, increasing gas exchange",
+            "The capillaries will expand, increasing blood flow and improving oxygenation",
+            "The simple squamous epithelium will be replaced by thicker columnar cells, increasing oxygen transport"
+        ],
+        "correctAnswer": "Oxygen and carbon dioxide diffusion will slow down, leading to reduced oxygen uptake",
+        "explanation": "Thickening of the alveolar walls increases diffusion distance, slowing gas exchange and leading to low oxygen levels in the blood."
+    },
+    {
+        "id": "29A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "A doctor is treating a premature infant with breathing difficulties due to lack of surfactant in the alveoli. What is the primary function of surfactant in the alveoli of the lungs?",
+        "options": [
+            "To promote the absorption of water into the alveoli",
+            "To reduce surface tension, preventing the alveoli from collapsing during expiration",
+            "To increase surface tension, making the alveoli more rigid",
+            "To speed up the diffusion of carbon dioxide into the bloodstream"
+        ],
+        "correctAnswer": "To reduce surface tension, preventing the alveoli from collapsing during expiration",
+        "explanation": "Surfactant reduces surface tension in the alveoli, preventing them from collapsing during expiration and ensuring efficient gas exchange."
+    },
+    {
+        "id": "30A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "A patient with chronic heart disease has reduced blood flow to the lungs. How will this affect gas exchange in the alveoli?",
+        "options": [
+            "Oxygen diffusion will slow down due to a reduced concentration gradient",
+            "The alveoli will compensate by increasing surface tension for better gas exchange",
+            "Carbon dioxide removal will increase, improving blood pH levels",
+            "The alveolar walls will thicken to store more oxygen"
+        ],
+        "correctAnswer": "Oxygen diffusion will slow down due to a reduced concentration gradient",
+        "explanation": "Reduced blood flow lowers the oxygen and carbon dioxide concentration gradients, slowing diffusion and reducing oxygen uptake."
+    },
+    {
+        "id": "31A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following is a direct consequence of smoking on the respiratory system?",
+        "options": [
+            "Thicker alveolar walls, increasing oxygen diffusion efficiency",
+            "Increased lung elasticity, improving oxygen intake",
+            "Damage to cilia, leading to increased mucus buildup and chronic bronchitis",
+            "Lower risk of developing emphysema due to increased surfactant production"
+        ],
+        "correctAnswer": "Damage to cilia, leading to increased mucus buildup and chronic bronchitis",
+        "explanation": "Smoking damages cilia in the respiratory tract, preventing mucus clearance, leading to chronic bronchitis and increased risk of lung infections."
+    },
+    {
+        "id": "32A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following statements accurately describes the functions of xylem and phloem in plants?",
+        "options": [
+            
+            "Xylem transports water and minerals from the roots to the leaves, while phloem transports sugars and other organic nutrients from the leaves to the roots and other parts of the plant",
+            "Xylem and phloem both transport water and minerals, but phloem also transports sugars to the root",
+            "Xylem transports oxygen to the roots, while phloem transports carbon dioxide to the leaves"
+        ],
+        "correctAnswer": "Xylem transports water and minerals from the roots to the leaves, while phloem transports sugars and other organic nutrients from the leaves to the roots and other parts of the plant",
+        "explanation": "Xylem is responsible for the upward movement of water and dissolved minerals from the roots to the leaves, where photosynthesis occurs. In contrast, phloem transports sugars and other organic nutrients produced during photosynthesis from the leaves to other parts of the plant, including the roots."
+    },
+    {
+        "id": "33A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "What happens to the diaphragm and intercostal muscles during inspiration (inhalation)?",
+        "options": [
+            "The diaphragm contracts and moves downward, while the external intercostal muscles contract, lifting the ribcage",
+            "The diaphragm relaxes and moves upward, while the internal intercostal muscles contract, lowering the ribcage",
+            "The diaphragm relaxes, and both external and internal intercostal muscles remain inactive",
+            "The diaphragm contracts and moves upward, forcing air into the lungs"
+        ],
+        "correctAnswer": "The diaphragm contracts and moves downward, while the external intercostal muscles contract, lifting the ribcage",
+        "explanation": "During inspiration, the diaphragm contracts and moves downward, and the external intercostal muscles contract, expanding the ribcage and increasing thoracic volume, reducing pressure to draw air in."
+    },
+    {
+        "id": "34A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following statements best explains the roles of cohesion and adhesion in water transport within plants?",
+        "options": [
+            "Cohesion, due to hydrogen bonds, allows water molecules to stick to plant cell walls, while adhesion, also due to hydrogen bonds, allows water molecules to stick to each other",
+            "Cohesion, caused by hydrogen bonds, enables water molecules to stick together, keeping the water column intact in the xylem, while adhesion allows water molecules to stick to the surfaces of plant tissues, such as the xylem",
+            "Cohesion prevents water molecules from evaporating, while adhesion allows water to move through the roots into the plant",
+            "Cohesion and adhesion both prevent water from moving upward in the plant's xylem vessels"
+        ],
+        "correctAnswer": "Cohesion, caused by hydrogen bonds, enables water molecules to stick together, keeping the water column intact in the xylem, while adhesion allows water molecules to stick to the surfaces of plant tissues, such as the xylem",
+        "explanation": "Cohesion occurs due to hydrogen bonds between water molecules and helps maintain a continuous column of water in the xylem vessels as it moves upward. Adhesion allows water molecules to stick to the walls of the xylem for the upward movement of water through capillary action."
+    },
+    {
+        "id": "35A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Why is the amount of nitrates reaching the leaves higher during the day and lower at night?",
+        "options": [
+            "Nitrates are absorbed by the roots only during the night, so they accumulate in the leaves by morning",
+            "Photosynthesis and transpiration are more active during the day, increasing the demand for and movement of nitrates to the leaves",
+            "Stomata are open at night, causing a higher uptake of nitrates into the leaves",
+            "The plant stores nitrates in the leaves during the night and releases them during the day"
+        ],
+        "correctAnswer": "Photosynthesis and transpiration are more active during the day, increasing the demand for and movement of nitrates to the leaves",
+        "explanation": "During the day, photosynthesis drives protein synthesis, requiring nitrates, while transpiration creates negative pressure, pulling water and nitrates from the roots. At night, reduced transpiration and photosynthesis lower nitrate movement to the leaves."
+    },
+    {
+        "id": "36A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Epidermal cells in plant roots optimize the intake of water and minerals from the soil with the help of",
+        "options": [
+            "thick cell walls and impermeable membranes to prevent toxins from entering the cell",
+            "a waxy cuticle to reduce water loss and prevent excess absorption",
+            "root hairs to increase the absorption surface and thin cell walls to allow easy passage into the cell"
+        ],
+        "correctAnswer": "root hairs to increase the absorption surface and thin cell walls to allow easy passage into the cell",
+        "explanation": "Epidermal cells develop extensions called root hairs that increase the surface area of the root and thin cell walls allow the water to enter by osmosis."
+    },
+    {
+        "id": "37A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following best explains the role of sieve tube elements and companion cells in the phloem?",
+        "options": [
+            "Sieve tube elements conduct water and minerals, while companion cells store sugars and amino acids",
+            "Companion cells transport water and minerals, while sieve tube elements carry sugars and amino acids to the roots",
+            "Sieve tube elements and companion cells both serve as structural support for the phloem and the plant",
+            "Sieve tube elements transport sugars and other organic compounds, with the companion cells providing metabolic support for the sieve tubes"
+        ],
+        "correctAnswer": "Sieve tube elements transport sugars and other organic compounds, with the companion cells providing metabolic support for the sieve tubes",
+        "explanation": "Sieve tube elements are responsible for the transport of sugars and other organic compounds through the phloem while companion cells are closely associated with sieve tube elements and provide metabolic support. These cells are connected by plasmodesmata, allowing for the exchange of materials between them."
+    },
+    {
+        "id": "38A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following correctly compares the apoplast and symplast pathways in plant water transport?",
+        "options": [
+            "The apoplast pathway involves water moving through cell membranes, while the symplast pathway involves water moving through the cell wall spaces",
+            "The apoplast pathway involves water moving through the cell wall spaces, while the symplast pathway involves water moving through the cytoplasm of connected cells via plasmodesmata",
+            "The apoplast pathway transports water from the roots to the leaves, while the symplast pathway transports water from the leaves to the roots",
+            "The apoplast pathway requires energy from ATP, while the symplast pathway does not"
+        ],
+        "correctAnswer": "The apoplast pathway involves water moving through the cell wall spaces, while the symplast pathway involves water moving through the cytoplasm of connected cells via plasmodesmata",
+        "explanation": "The apoplast pathway allows water to move through the extracellular spaces and the cell walls, bypassing the cell membranes. In contrast, the symplast pathway involves water moving from one cell to another through the cytoplasm, connected by plasmodesmata"
+    },
+    {
+        "id": "39A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "How does the endodermis in plant roots regulate the transport of water and minerals into the xylem?",
+        "options": [
+            "It contains stomata, which regulate water movement into the vascular system",
+            "It increases the surface area for water absorption, similar to root hair",
+            "It acts as a passive barrier, allowing all minerals and water to diffuse freely into the xylem",
+            "It contains a Casparian strip, which is impermeable to water and forces substances to pass through cell membranes for selective absorption"
+        ],
+        "correctAnswer": "It contains a Casparian strip, which is impermeable to water and forces substances to pass through cell membranes for selective absorption",
+        "explanation": "The Casparian strip in the endodermis is impermeable, forcing water and minerals to pass through plasma membranes, ensuring selective uptake into the xylem."
+    },
+    {
+        "id": "40A2B3C4D",
+        "topic": "Transport and exchange",
+        "subtopic": "",
+        "question": "Which of the following best describes the key adaptations of cacti to arid conditions?",
+        "options": [
+            "Higher stomatal density, larger root systems and C4 Photosynthesis",
+            "Regular stomatal density, thick waxy cuticle, regular C3 photosynthesis and shallow wide root system",
+            "Reduced stomatal density, thick waxy cuticle, CAM photosynthesis and shallow wide root system"
+        ],
+        "correctAnswer": "Reduced stomatal density, thick waxy cuticle, CAM photosynthesis and shallow wide root system",
+        "explanation": "Cacti have fewer stomata than plants in more humid environments to reduce water loss through transpiration. \nCacti have waxy cuticle and shallow, wide root systems that allow them to absorb water quickly when it does rain."
+    },
+    {
+        "id": "41A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Presence tests",
+        "question": "A biologist hydrolyses a sample of starch using amylase and then tests the product using iodine solution. \n\nWhat would be the expected color change if hydrolysis was successful?",
+        "options": [
+            "Blue-black to brown/yellow",
+            "Yellow to blue-black",
+            "Blue to brick-red",
+            "No color change"
+        ],
+        "correctAnswer": "Blue-black to brown/yellow",
+        "explanation": "The iodine test is used to identify starch, as iodine reacts with starch to produce a blue-black color. During starch hydrolysis, the enzyme amylase breaks down starch into smaller molecules like maltose. If hydrolysis is complete, starch is no longer present, causing the iodine test to show a brown/yellow color instead of blue-black."
+    },
+    {
+        "id": "42A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Presence tests",
+        "question": "A student carries out Benedict’s test on an unknown solution and observes that the solution remains blue. \n\nWhat conclusion can be drawn?",
+        "options": [
+            "The solution contains a reducing sugar",
+            "The solution contains a non-reducing sugar",
+            "The solution contains proteins but no sugars",
+            "The solution does not contain any reducing sugar"
+        ],
+        "correctAnswer": "The solution does not contain any reducing sugar",
+        "explanation": "Benedict’s test is used to detect the presence of reducing sugars. \n\nWhen a reducing sugar (such as glucose or fructose) is present, the solution changes color from blue to green, yellow, orange, or red, depending on the concentration of the reducing sugar.\n\nIf the solution remains blue, this indicates that there is no reducing sugar in the solution."
+    },
+    {
+        "id": "43A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Nucleic acids",
+        "question": "The percentage of adenine in a research DNA sample is 30%. What percentage of guanine should be present?",
+        "options": [
+            "20%", "30%", "40%", "70%"
+        ],
+        "correctAnswer": "20%",
+        "explanation": "Chargaff's rules state that in DNA, adenine (A) pairs with thymine (T) and cytosine (C) pairs with guanine (G), meaning their amounts are always equal. If A is 30%, then T is also 30%, making A and T together 60%. The remaining 40% is equally divided between G and C, so each is 20%."
+    },
+    {
+        "id": "44A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Nucleic acids",
+        "question": "Each strand of DNA contains nucleotides with complimentary bases where ",
+        "options": [
+            "(A)denine pairs with (C)ytosine, and (T)hymine pairs with (G)uanine",
+            "(A)denine pairs with (T)hymine, and (C)ytosine pairs with (G)uanine",
+            "(A)denine pairs with (G)uanine, and (T)hymine pairs with (C)ytosine",
+            "(A)denine pairs with (C)ytosine, (T)hymine and (G)uanine"
+        ],
+        "correctAnswer": "(A)denine pairs with (T)hymine, and (C)ytosine pairs with (G)uanine",
+        "explanation": "DNA strands are held together by hydrogen bonds between complementary bases: A pairs with T, and C pairs with G. A-T pairs have two hydrogen bonds, while C-G pairs have three. This precise pairing maintains the DNA double helix and ensures accurate genetic replication."
+    },
+    {
+        "id": "45A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "Where do transcription and translation stages of protein production occur?",
+        "options": [
+            "Both occur in the nucleus",
+            "Both occur in the cytoplasm",
+            "Translation occurs in the nucleus and transcription occurs in the cytoplasm",
+            "Transcription occurs in the nucleus and translation occurs in the cytoplasm"
+        ],
+        "correctAnswer": "Transcription occurs in the nucleus and translation occurs in the cytoplasm",
+        "explanation": "Transcription copies DNA into mRNA in the nucleus using RNA polymerase. The mRNA then moves to the cytoplasm, where ribosomes translate it into a protein. During translation, codons on mRNA guide amino acid assembly into a protein chain."
+    },
+    {
+        "id": "46A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "Which of the following describes the function of the P site in the ribosome during translation?",
+        "options": [
+            "It is where the mRNA binds to the ribosome",
+            "It is where the tRNA carrying the growing polypeptide chain is located",
+            "It is where the tRNA carrying the next amino acid binds to the mRNA codon",
+            "It is where the ribosome exits the mRNA after translation is complete"
+        ],
+        "correctAnswer": "It is where the tRNA carrying the growing polypeptide chain is located",
+        "explanation": "The P site (Peptidyl site) of the ribosome holds the tRNA carrying the growing polypeptide chain and is where peptide bond formation occurs between the amino acid in the A site and the existing chain. After bond formation, the ribosome shifts forward, moving the newly extended polypeptide-tRNA from the A site to the P site, allowing translation to continue."
+    },
+    {
+        "id": "47A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "What is the purpose of a base triplet (codon) in mRNA?",
+        "options": [
+            "To initiate the process of DNA replication",
+            "To encode the sequence of amino acids in a protein",
+            "To determine the sequence of nitrogenous bases in DNA",
+            "To serve as the template for the formation of RNA"
+        ],
+        "correctAnswer": "To encode the sequence of amino acids in a protein",
+        "explanation": "A base triplet or codon in mRNA consists of three nucleotides, which collectively code for a specific amino acid during translation. \n\nThe sequence of codons in mRNA determines the sequence of amino acids that will be linked together to form a protein. \n\nThis is a crucial part of the process of protein synthesis, where the information encoded in mRNA is used by the ribosome to assemble a protein in the cytoplasm."
+    },
+    {
+        "id": "48A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "To start transcription, the enzyme RNA polymerase attaches to which part of the DNA?",
+        "options": [
+            "The terminator region of the gene",
+            "The promoter region of the gene",
+            "The ribosome binding site",
+            "The exons of the gene"
+        ],
+        "correctAnswer": "The promoter region of the gene",
+        "explanation": "To begin transcription, the enzyme RNA polymerase attaches to the promoter region of the gene. \n\nOnce RNA polymerase binds to the promoter, it unwinds the DNA and begins synthesizing the messenger RNA (mRNA) by adding complementary RNA nucleotides to the DNA template strand."
+    },
+    {
+        "id": "49A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Proteins",
+        "question": "Proteins consist of the ",
+        "options": [
+            "chains of amino acids",
+            "chains of fatty acids",
+            "chains of nucleotides",
+            "chains of glucose molecules"
+        ],
+        "correctAnswer": "chains of amino acids",
+        "explanation": "Proteins are made up of long chains of amino acids, which are linked together by peptide bonds. \n\nAmino acid chains then fold into 3-dimensional shapes, allowing proteins to catalyze reactions (enzymes), provide structure (collagen) and transport molecules (hemoglobin)"
+    },
+    {
+        "id": "50A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Proteins",
+        "question": "Which of the following best describes the quaternary structure of a protein?",
+        "options": [
+            "The folding of a polypeptide into a three-dimensional shape stabilized by interactions such as hydrogen bonds, disulfide bridges, and hydrophobic interactions",
+            "The interaction and assembly of multiple polypeptide chains (subunits) into a functional protein complex",
+            "The formation of α-helices and β-pleated sheets due to hydrogen bonding between the backbone atoms of a single polypeptide chain"
+        ],
+        "correctAnswer": "The interaction and assembly of multiple polypeptide chains (subunits) into a functional protein complex",
+        "explanation": "The remaining options correctly describe the secondary and the tertiary structures of a protein."
+    },
+    {
+        "id": "51A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Proteins",
+        "question": "Which of the following best explains how collagen's overall shape contributes to its function?",
+        "options": [
+            "Its triple-helix structure provides strength and flexibility, making it ideal for connective tissues like tendons",
+            "Its branched, irregular structure enables it to stretch and recoil like elastin",
+            "Its globular shape allows it to dissolve easily in water, aiding in rapid transport through the bloodstream",
+            "Its hollow, tubular shape allows it to function as a channel for molecule transport"
+        ],
+        "correctAnswer": "Its triple-helix structure provides strength and flexibility, making it ideal for connective tissues like tendons",
+        "explanation": "Collagen’s triple-helix structure provides high tensile strength, allowing it to function as a structural protein in tendons, ligaments, skin, and cartilage."
+    },
+    {
+        "id": "52A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Proteins",
+        "question": "A patient with iron deficiency anemia has a reduced ability to transport oxygen in the blood. How does this relate to hemoglobin’s conjugated structure?",
+        "options": [
+            "Hemoglobin functions without any non-protein components, so iron deficiency does not affect oxygen binding",
+            "Hemoglobin requires iron in its heme prosthetic group to bind oxygen, otherwise oxygen transport is impaired",
+            "Hemoglobin is a simple protein and does not require iron to transport oxygen",
+            "Iron is only needed for enzymatic reactions and has no role in hemoglobin function"
+        ],
+        "correctAnswer": "Hemoglobin requires iron in its heme prosthetic group to bind oxygen, otherwise oxygen transport is impaired",
+        "explanation": "Hemoglobin is a conjugated protein that requires iron in its heme prosthetic group for oxygen binding. Without iron, hemoglobin cannot efficiently transport oxygen, leading to anemia."
+    },
+    {
+        "id": "53A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Proteins",
+        "question": "Which of the following correctly describes prion proteins and their role in disease?",
+        "options": [
+            "Prions are a type of nucleic acid that replicates like DNA or RNA to spread infectio",
+            "Prions are misfolded proteins that can induce normal proteins to misfold, leading to neurodegenerative diseases",
+            "Prions are simple enzymes that help break down cellular waste products in the nervous system"
+        ],
+        "correctAnswer": "Prions are misfolded proteins that can induce normal proteins to misfold, leading to neurodegenerative diseases",
+        "explanation": "Prions are misfolded proteins that cause normal proteins to misfold, leading to neurodegenerative diseases such as Creutzfeldt-Jakob disease (CJD) and mad cow disease (BSE)."
+    },
+    {
+        "id": "54A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Nucleic acids",
+        "question": "Which of the following correctly describes the components of a nucleotide, the building block of nucleic acids?",
+        "options": [
+            "A pentose sugar, a glycerol molecule, and a nitrogenous base",
+            "A pentose sugar, a fatty acid, and a nitrogenous base",
+            "A pentose sugar, a lactic acid, and an inorganic phosphate group",
+            "A pentose sugar, a nitrogenous base, and an inorganic phosphate group"
+        ],
+        "correctAnswer": "A pentose sugar, a nitrogenous base, and an inorganic phosphate group",
+        "explanation": "A nucleotide consists of a pentose sugar (ribose or deoxyribose), a nitrogenous base (A, T, C, G, or U), and a phosphate group, forming the basic unit of DNA and RNA."
+    },
+    {
+        "id": "55A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "Describe the function of the ribosome during translation",
+        "options": [
+            "The ribosome catalyzes the formation of peptide bonds between amino acids",
+            "The ribosome carries amino acids to the nucleus for DNA replication",
+            "The ribosome reads the DNA template to produce mRNA",
+            "The ribosome synthesizes mRNA by transcribing the genetic code"
+        ],
+        "correctAnswer": "The ribosome catalyzes the formation of peptide bonds between amino acids",
+        "explanation": "The ribosome is a key player in translation, which is the process where mRNA is used as a template to assemble amino acids into a polypeptide (protein). \n\nThe ribosome facilitates the formation of peptide bonds between the amino acids, linking them together in the correct sequence dictated by the mRNA codons"
+    },
+    {
+        "id": "56A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Presence tests",
+        "question": "A student is conducting a Biuret test to identify the presence of proteins in different food samples. Which steps should they follow to obtain accurate results?",
+        "options": [
+            "Add iodine solution, a blue-black color indicates protein presence",
+            "Heat the sample and observe if it turns brick red, confirming protein presence",
+            "Add sodium hydroxide and copper sulfate, a purple color change confirms the presence of protein",
+            "Filter the sample and check for a colorless solution, indicating protein presence"
+        ],
+        "correctAnswer": "Add sodium hydroxide and copper sulfate, a purple color change confirms the presence of protein",
+        "explanation": "The Biuret test involves adding Biuret reagent, which reacts with peptide bonds in proteins to produce a purple color if proteins are present."
+    },
+    {
+        "id": "57A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "A student is replicating Meselson and Stahl’s experiment to determine the method of DNA replication using nitrogen isotopes (¹⁵N and ¹⁴N). After one round of DNA replication in ¹⁴N-containing medium, what would be the expected density of DNA in a centrifuge tube?",
+        "options": [
+            "All DNA molecules will be heavy (high density) since they originated from the ¹⁵N medium",
+            "All DNA molecules will be light (low density) since replication occurred in ¹⁴N medium",
+            "DNA molecules will be of intermediate density, containing one ¹⁵N strand and one ¹⁴N strand",
+            "DNA molecules will completely degrade due to isotope changes"
+        ],
+        "correctAnswer": "DNA molecules will be of intermediate density, containing one ¹⁵N strand and one ¹⁴N strand",
+        "explanation": "After one round of replication, DNA consists of one original ¹⁵N strand and one new ¹⁴N strand, producing intermediate density DNA, supporting semi-conservative replication."
+    },
+    {
+        "id": "58A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "What experimental evidence confirmed semi-conservative replication as the correct model of DNA replication?",
+        "options": [
+            "Meselson and Stahl’s experiment using nitrogen isotopes showed DNA strands separating and forming hybrid molecules",
+            "Watson and Crick observed DNA replication directly under a microscope",
+            "Hershey and Chase’s bacteriophage experiment confirmed DNA’s role as genetic material",
+            "The discovery of ribosomes proved that DNA copies itself before cell division"
+        ],
+        "correctAnswer": "Meselson and Stahl’s experiment using nitrogen isotopes showed DNA strands separating and forming hybrid molecules",
+        "explanation": "Meselson and Stahl’s experiment used heavy (¹⁵N) and light (¹⁴N) nitrogen isotopes to show that DNA retains one original strand and one newly synthesized strand, confirming semi-conservative replication."
+    },
+    {
+        "id": "59A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Replication of DNA",
+        "question": "During semi-conservative replication, what enzyme is responsible for assembling the new DNA strand?",
+        "options": [
+            "DNA Helicase",
+            "DNA Polymerase",
+            "DNA Primase",
+            "DNA Ligase"
+        ],
+        "correctAnswer": "DNA Polymerase",
+        "explanation": "DNA Polymerase adds new nucleotides to the growing strand using the template strand during semi-conservative replication."
+    },
+    {
+        "id": "60A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Nucleic acids",
+        "question": "What are the products released when nucleic acids are hydrolysed?",
+        "options": [
+            "Amino acids",
+            "Nucleotides",
+            "Fatty acids and glycerol",
+            "Simple sugars and ATP"
+        ],
+        "correctAnswer": "Nucleotides",
+        "explanation": "The hydrolysis of nucleic acids breaks them down into nucleotides, which can further decompose into a pentose sugar (ribose or deoxyribose), phosphate group, and nitrogenous base."
+    },
+    {
+        "id": "61A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "Amylase is an enzyme that breaks down starch into maltose. When amylase is added to a protein solution, no reaction occurs. What does this result indicate?",
+        "options": [
+            "Amylase can break down proteins, but only under higher temperatures",
+            "Enzymes are specific and can only catalyze reactions with substrates that fit their active site",
+            "The experiment failed because enzymes should work on all molecules",
+            "The presence of proteins prevents enzyme activity in any reaction"
+        ],
+        "correctAnswer": "Enzymes are specific and can only catalyze reactions with substrates that fit their active site",
+        "explanation": " Amylase only catalyzes the breakdown of starch, demonstrating enzyme specificity based on active site shape."
+    },
+    {
+        "id": "62A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "The enzyme cytochrome c oxidase involved in cellular respiration can be inhibited by a non-competitive inhibitor cyanide. \n\nWhat effect will increasing substrate concentration have on cellular respiration?",
+        "options": [
+            "Cellular respiration will continue as a result of overcoming the inhibition",
+            "Cellular respiration will be disrupted as inhibition will, in most cases, remain irreversible",
+            "Cellular respiration will continue as a result of partially overcoming the inhibition",
+            "Cellular respiration will continue as a result of increasing enzyme's activity"
+        ],
+        "correctAnswer": "Cellular respiration will be disrupted as inhibition will, in most cases, remain irreversible",
+        "explanation": "Cyanide is a non-competitive inhibitor that binds to the alternative site of the enzyme cytochrome c oxidase, which is involved in the electron transport chain during cellular respiration. \n\nCyanide binds irreversibly to the alternative site, this changes the form of the enzyme and permanently prevents it from functioning properly, so increasing the substrate concentration will not overcome the inhibition."
+    },
+    {
+        "id": "63A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "A researcher is investigating the enzyme carbonic anhydrase, which speeds up the conversion of carbon dioxide into bicarbonate in blood. The enzyme is inactive until zinc ions (Zn²⁺) are added. What does this suggest about zinc’s role?",
+        "options": [
+            "Zinc is a cofactor that helps the enzyme function by stabilizing the active site",
+            "Zinc inhibits the enzyme and prevents the reaction from occurring",
+            "Zinc acts as a substrate that the enzyme breaks down",
+            "Zinc replaces the enzyme’s active site with a new shape"
+        ],
+        "correctAnswer": "Zinc is a cofactor that helps the enzyme function by stabilizing the active site",
+        "explanation": "Zinc ions (Zn²⁺) act as a cofactor, helping carbonic anhydrase function properly by stabilizing its active site, ensuring efficient catalysis."
+    },
+    {
+        "id": "64A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "In an experiment testing the effect of substrate concentration on enzyme activity, the reaction rate at different concentrations is being  recorded. After a certain point, increasing substrate concentration no longer increases the rate.\n\nWhat is the most likely explanation?",
+        "options": [
+            "The enzyme has been denatured",
+            "The reaction has reached equilibrium and cannot proceed further",
+            "The substrate molecules have been used up",
+            "The active sites of all enzyme molecules are saturated with substrate"
+        ],
+        "correctAnswer": "The active sites of all enzyme molecules are saturated with substrate",
+        "explanation": "In enzyme-catalyzed reactions, the reaction rate increases as the substrate concentration increases, because more substrate molecules are available to bind to the active sites, however, after a certain concentration of substrate, the reaction rate no longer increases because all the active sites of the enzyme molecules are already occupied with substrate molecules and there are no more free active sites for the substrate to bind to."
+    },
+    {
+        "id": "65A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "A food processing company wants to extend the shelf life of fresh-cut potatoes. They notice that after cutting, the potatoes quickly turn brown when exposed to air. How could catalase treatment help prevent browning in potatoes?",
+        "options": [
+            "Catalase breaks down hydrogen peroxide, reducing oxidative damage that leads to browning",
+            "Catalase stops carbohydrate digestion, preventing energy production in the potato cells",
+            "Catalase removes all water molecules from the potato, dehydrating the tissue",
+            "Catalase increases heat production, burning away the brown pigments"
+        ],
+        "correctAnswer": "Catalase breaks down hydrogen peroxide, reducing oxidative damage that leads to browning",
+        "explanation": "Catalase breaks down hydrogen peroxide, which can contribute to oxidative damage, reducing the rate of enzymatic browning in potatoes."
+    },
+    {
+        "id": "66A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "A dairy company uses the enzyme lactase to breaks down lactose in milk and produce lactose-free milk. They find that lactase works best at 37°C but becomes ineffective when milk is heated to 75°C before enzyme treatmen. Why?",
+        "options": [
+            "Heating the milk activates lactase, making it break down lactose too fast",
+            "Lactase changes shape to match any sugar in the milk, reducing its specificity",
+            "Lactose molecules are destroyed at high temperatures, so lactase has nothing to act on",
+            "The enzyme is denatured at high temperatures, preventing it from binding to lactose"
+        ],
+        "correctAnswer": "The enzyme is denatured at high temperatures, preventing it from binding to lactose",
+        "explanation": "High temperatures denature lactase, altering the active site so it can no longer bind to lactose and catalyze its breakdown."
+    },
+    {
+        "id": "67A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "Enzymes as disease biomarkers are ",
+        "options": [
+            "produced in specific tissues and leak into blood when damaged",
+            "produced in the blood and increase their concentration when a disease occurs",
+            "synthesized only when tissue damage begins, rather than being present in healthy cells",
+            "able to function as hormones, directly signaling organs to repair tissue damage"
+        ],
+        "correctAnswer": "produced in specific tissues and leak into blood when damaged",
+        "explanation": "For example, LDH is found in muscle cells, and when muscle damage occurs (due to injury or disease), LDH leaks into the bloodstream, making it a biomarker for tissue damage."
+    },
+    {
+        "id": "68A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "Explain why aspirin is used to reduce pain, fever, and inflammation caused by prostaglandins produced by the enzyme cyclooxygenase(COX-1 & COX-2)",
+        "options": [
+            "It blocks nerve impulses to the brain, directly stopping pain signals",
+            "It increases serotonin levels, improving mood and making pain feel less intense",
+            "It inhibits cyclooxygenase preventing prostaglandin production",
+            "It reduces blood pressure, which decreases inflammation and fever"
+        ],
+        "correctAnswer": "It inhibits cyclooxygenase preventing prostaglandin production",
+        "explanation": "Since excess prostaglandin production worsens pain, fever, and inflammation, blocking COX enzymes can help relieve these symptoms."
+    },
+    {
+        "id": "69A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "A dairy company wants to make cheese production more efficient by speeding up the breakdown of milk proteins. Instead of heating the milk to high temperatures, they use the enzyme rennin to speed up the reaction at a lower temperature. \nHow does rennin help in cheese production?",
+        "options": [
+            "It changes the pH of the milk, making protein breakdown easier by creating an acidic environment",
+            "It lowers the activation energy, allowing milk proteins to break down faster without requiring high temperatures",
+            "It loosens the molecular structure of proteins, making them more reactive without directly breaking them down"
+        ],
+        "correctAnswer": "It lowers the activation energy, allowing milk proteins to break down faster without requiring high temperatures",
+        "explanation": "Rennin lowers the activation energy, allowing proteins to break down efficiently at lower temperatures, improving cheese production."
+    },
+    {
+        "id": "70A2B3C4D",
+        "topic": "Enzymes",
+        "subtopic": "",
+        "question": "The glucose test strip contains immobilized enzyme glucose oxidase. It helps people with diabetes to monitor  their blood sugar levels. \nWhy using an expired test strip can lead to an incorrectly low reading?",
+        "options": [
+            "Enzymes degrade over time, reducing the ability to react with glucose",
+            "Enzymes become more active over time, making test results unreliable",
+            "Glucose oxidase can self-replicate, leading to excessive enzyme activity in expired strips"
+        ],
+        "correctAnswer": "Enzymes degrade over time, reducing the ability to react with glucose",
+        "explanation": "Immobilized glucose oxidase degrades over time due to enzyme denaturation, oxidative damage, and loss of its FAD cofactor, reducing its ability to catalyze glucose oxidation. Exposure to heat, moisture, and oxygen accelerates this degradation, weakening its performance in glucose test strips."
+    },
+    {
+        "id": "71A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "In the nucleus of a eukaryotic cell, what is the correct structural organization of chromosomes?",
+        "options": [
+            "Chromosomes are made of only DNA, with no associated proteins",
+            "Chromosomes contain RNA and lipids, allowing gene expression",
+            "Chromosomes are found outside the nucleus and consist only of free-floating DNA"
+        ],
+        "correctAnswer": "Chromosomes are found outside the nucleus and consist only of free-floating DNA",
+        "explanation": "Eukaryotic chromosomes are composed of DNA tightly wrapped around histone proteins, forming a compact structure called chromatin, which helps in DNA organization and gene regulation."
+    },
+    {
+        "id": "72A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "Mitosis is essential for growth, repair, and asexual reproduction in eukaryotic cells. How does mitosis ensure that genetic consistency is maintained between parent and daughter cells?",
+        "options": [
+            "Mitosis produces haploid cells, which later fuse to restore the original chromosome number",
+            "Mitosis randomly distributes chromosomes, ensuring genetic variation in daughter cells",
+            "Mitosis produces two genetically identical daughter cells by accurately replicating and distributing DNA"
+        ],
+        "correctAnswer": "Mitosis produces two genetically identical daughter cells by accurately replicating and distributing DNA",
+        "explanation": "Mitosis produces two genetically identical daughter cells, ensuring that each cell receives an exact copy of the parent cell's DNA, maintaining genetic consistency."
+    },
+    {
+        "id": "73A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "Chromosomes condense, the nuclear envelope breaks down, and spindle fibers begin to form.\nChromosomes align at the cell’s equator, attached to spindle fibers at their centromeres.\nSister chromatids are pulled apart to opposite poles of the cell by spindle fibers.\nChromosomes decondense, nuclear envelopes reform, and the cell prepares for cytokinesis.\nThe stages described in order are ",
+        "options": [
+            "Prophase - metaphase - anaphase - telophase stages of meiosis I",
+            "Prophase - metaphase - anaphase - telophase stages of mitosis",
+            "Prophase - metaphase - anaphase - telophase stages of meiosis II"
+        ],
+        "correctAnswer": "Prophase - metaphase - anaphase - telophase stages of mitosis",
+        "explanation": "The sequence described represents prophase, metaphase, anaphase and telophase stages of mitosis, not meiosis."
+    },
+    {
+        "id": "74A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "Cancer cells divide uncontrollably, making mitosis a key target for chemotherapy. Mitotic poisons such as vincristine and paclitaxel (taxol) are used as cancer drugs because they ",
+        "options": [
+            "Disrupt spindle fiber formation, preventing chromosome separation and halting mitosis",
+            "Increase the rate of mitosis, forcing cancer cells to divide faster until they self-destruct",
+            "Stop DNA replication during interphase, preventing cells from reaching mitosis",
+            "Destroy only the nuclei of cancer cells, preventing them from forming daughter cells"
+        ],
+        "correctAnswer": "Disrupt spindle fiber formation, preventing chromosome separation and halting mitosis",
+        "explanation": " Mitotic poisons inhibit spindle fiber function, either by preventing microtubule formation (vincristine) or stabilizing microtubules (taxol), leading to mitotic arrest and cell death."
+    },
+    {
+        "id": "75A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "Cancer cells divide rapidly, requiring DNA replication during S-phase of the cell cycle. Antimetabolites, such as 5-fluorouracil (5-FU) and methotrexate, are used in chemotherapy because they ",
+        "options": [
+            "Destroy the entire nucleus of cancer cells, stopping all cellular functions immediately",
+            "Speed up DNA replication, forcing cancer cells to divide uncontrollably until they self-destruct",
+            "Target spindle fibers, preventing chromosome separation during mitosis",
+            "Inhibit enzymes required for DNA synthesis, preventing cancer cells from progressing through S-phase"
+        ],
+        "correctAnswer": "Inhibit enzymes required for DNA synthesis, preventing cancer cells from progressing through S-phase",
+        "explanation": "S-phase inhibitors (antimetabolites) block enzymes like thymidylate synthase and dihydrofolate reductase, disrupting nucleotide synthesis, preventing DNA replication, and halting cancer cell division."
+    },
+    {
+        "id": "76A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "A fertilized egg (zygote) with trisomy 21 has an extra chromosome. How did this occur?",
+        "options": [
+            "A diploid gamete (2n) fertilized a haploid gamete, doubling the chromosome number",
+            "One chromosome split into three during fertilization, creating trisomy",
+            "A haploid gamete (n+1) with an extra chromosome fused with a normal haploid gamete (n), forming a trisomic (2n+1) zygote",
+            "The zygote removed a chromosome to compensate for the extra copy"
+        ],
+        "correctAnswer": "A haploid gamete (n+1) with an extra chromosome fused with a normal haploid gamete (n), forming a trisomic (2n+1) zygote",
+        "explanation": "Trisomy (Down syndrome) results from a gamete carrying an extra chromosome (n+1) fusing with a normal haploid gamete (n), producing a 2n+1 zygote."
+    },
+    {
+        "id": "77A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "Which statement correctly describes the structure of human chromosomes as shown in a karyotype?",
+        "options": [
+            "Humans have 46 chromosomes, arranged as 23 homologous pairs, with one chromosome in each pair inherited from each parent",
+            "Humans have 23 chromosomes, each containing genetic material inherited equally from both parents",
+            "Humans have 46 identical chromosomes, with no distinction between maternal and paternal copies",
+            "Humans have 46 pairs of chromosomes, meaning a total of 92 chromosomes in body cells"
+        ],
+        "correctAnswer": "Humans have 46 chromosomes, arranged as 23 homologous pairs, with one chromosome in each pair inherited from each parent",
+        "explanation": "Humans are diploid (2n = 46), meaning they have 23 homologous pairs, with one chromosome in each pair inherited from the mother and the other from the father."
+    },
+    {
+        "id": "78A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "A study of a dihybrid cross and shows that some offspring have new combinations of traits not seen in either parent. What is the most likely explanation?",
+        "options": [
+            "A mutation occurred, randomly generating new genetic traits in the offspring",
+            "Independent assortment during mitosis caused traits to shuffle between generations",
+            "Crossing over during meiosis I led to genetic recombination, producing new allele combinations",
+            "The offspring inherited genes only from one parent, bypassing recombination"
+        ],
+        "correctAnswer": "Crossing over during meiosis I led to genetic recombination, producing new allele combinations",
+        "explanation": "Crossing over at chiasmata reshuffles alleles during meiosis I, creating new genetic combinations that differ from the parents."
+    },
+    {
+        "id": "79A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "Which statement correctly describes the separation of chromosomes during meiosis?",
+        "options": [
+            "Sister chromatids separate during meiosis I, while homologous chromosomes separate during meiosis II",
+            "Homologous chromosomes separate during meiosis I, while sister chromatids separate during meiosis II",
+            "Both homologous chromosomes and sister chromatids separate during meiosis I",
+            "Homologous chromosomes remain together throughout meiosis"
+        ],
+        "correctAnswer": "Homologous chromosomes separate during meiosis I, while sister chromatids separate during meiosis II",
+        "explanation": "Homologous chromosomes separate during anaphase I of meiosis I, while sister chromatids separate during anaphase II of meiosis II, ensuring genetic variation in gametes."
+    },
+    {
+        "id": "80A2B3C4D",
+        "topic": "Continuity of cells",
+        "subtopic": "",
+        "question": "Which statement correctly describes the genetic outcomes of mitosis and meiosis?",
+        "options": [
+            "Mitosis produces genetically identical (clonal) cells, while meiosis produces genetically unique cells due to recombination and independent assortment",
+            "Both mitosis and meiosis produce genetically identical cells, ensuring no variation between offspring",
+            "Mitosis produces four genetically diverse cells, while meiosis produces two identical cells",
+            "Mitosis occurs only in reproductive cells, while meiosis occurs in somatic cells, leading to genetic diversity"
+        ],
+        "correctAnswer": "Mitosis produces genetically identical (clonal) cells, while meiosis produces genetically unique cells due to recombination and independent assortment",
+        "explanation": "Mitosis produces clones of the parent cell, maintaining genetic consistency, while meiosis generates genetic variation through crossing over and independent assortment."
+    },
+    {
+        "id": "81A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "Which of the following correctly explains why a capillary is considered a tissue, while an artery is classified as an organ?",
+        "options": [
+            "A capillary is composed of only endothelial cells, making it a tissue, whereas an artery contains multiple tissue types, making it an organ",
+            "A capillary is smaller than an artery, and size determines whether a structure is a tissue or an organ",
+            "Capillaries function independently, while arteries require veins to work properly, making them organs",
+            "Arteries contain blood, which classifies them as organs, while capillaries do not store blood, making them a tissue"
+        ],
+        "correctAnswer": "A capillary is composed of only endothelial cells, making it a tissue, whereas an artery contains multiple tissue types, making it an organ",
+        "explanation": "Capillaries are tissues because they are composed of a single type of specialized endothelial cells, whereas arteries are organs because they contain multiple tissue layers, including smooth muscle, connective tissue, and endothelium, allowing them to function as complex structures."
+    },
+    {
+        "id": "82A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "The walls of the alimentary canal (digestive tract) consist of multiple tissue layers, each with a specific function. Which of the following correctly matches a tissue layer with its role?",
+        "options": [
+            "Muscularis mucosa – A thick layer of smooth muscle responsible for powerful contractions that move food through the digestive tract",
+            "Submucosa – The outermost protective layer that prevents damage to the digestive tract",
+            "Mucosa – The innermost layer that contains epithelial cells and is responsible for secretion and absorption",
+            "Serosa – The innermost layer, directly involved in nutrient absorption"
+        ],
+        "correctAnswer": "Mucosa – The innermost layer that contains epithelial cells and is responsible for secretion and absorption",
+        "explanation": " The mucosa is the innermost layer of the digestive tract which aid in secretion and absorption.\nThe serosa is the outermost layer, providing structural protection and lubrication.\n"
+    },
+    {
+        "id": "83A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "A patient has a condition that damages the submucosa layer of the intestine, affecting its function. What would be the most likely consequence?",
+        "options": [
+            "Impaired blood supply and nerve function, leading to poor digestion and reduced gut motility",
+            "Complete loss of absorption, as the submucosa directly absorbs nutrients into the bloodstream",
+            "Weakening of the outermost protective layer, exposing the intestines to stomach acid damage",
+            "The inability to secrete mucus, leading to food getting stuck in the digestive tract"
+        ],
+        "correctAnswer": "Impaired blood supply and nerve function, leading to poor digestion and reduced gut motility",
+        "explanation": "The submucosa contains blood vessels, lymphatic tissue, and nerves, so damage can impair nutrient transport and gut motility, affecting digestion."
+    },
+    {
+        "id": "84A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "A patient has a condition that damages the serosa of the intestine, causing inflammation and loss of its protective function. What would be the most likely consequence?",
+        "options": [
+            "Increased friction and adhesions between the intestines and surrounding organs, leading to pain and digestive complications",
+            "Impaired absorption of nutrients, since the serosa is responsible for absorbing digested food",
+            "Reduced enzyme production, preventing the breakdown of food",
+            "Weakened peristalsis, as the serosa controls the contraction of intestinal muscles"
+        ],
+        "correctAnswer": "Increased friction and adhesions between the intestines and surrounding organs, leading to pain and digestive complications",
+        "explanation": " The serosa normally prevents friction, so when damaged, the intestines may stick to surrounding organs, leading to pain and complications like adhesions."
+    },
+    {
+        "id": "85A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "A patient has a condition that weakens the muscularis externa in the intestine. Which digestive process would be most affected?",
+        "options": [
+            "The absorption of nutrients, as the muscularis externa is responsible for active transport of food molecules",
+            "The breakdown of proteins and fats, since the muscularis externa releases digestive enzymes",
+            "The movement of food along the gut, leading to slow digestion or blockages due to impaired peristalsis",
+            "The production of hormones that regulate digestion"
+        ],
+        "correctAnswer": "The movement of food along the gut, leading to slow digestion or blockages due to impaired peristalsis",
+        "explanation": " Peristalsis is controlled by the muscularis externa, so weakening this layer can lead to slow digestion, food stasis, or blockages in the gut."
+    },
+    {
+        "id": "86A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "Goblet cells, found in the columnar epithelium of the small intestine, play a crucial role in digestion. What is their primary function?",
+        "options": [
+            "Absorbing nutrients from digested food and transporting them into the bloodstream",
+            "Producing digestive enzymes that break down proteins and carbohydrates",
+            "Contracting to push food along the digestive tract during peristalsis",
+            "Secreting mucus, which lubricates and protects the intestinal lining from digestive enzymes and acidic contents"
+        ],
+        "correctAnswer": "Secreting mucus, which lubricates and protects the intestinal lining from digestive enzymes and acidic contents",
+        "explanation": "Goblet cells secrete mucus, which lubricates the intestine and protects epithelial cells from digestive enzymes and acidic contents.\nWithout sufficient mucus secretion from goblet cells, the intestinal lining becomes irritated and inflamed, leading to pain, ulcers, and digestive issues."
+    },
+    {
+        "id": "87A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "A patient develops a disease that affects the blood and lymphatic vessels in the submucosa. Which of the following would most likely occur?",
+        "options": [
+            "Rapid digestion due to excessive enzyme production",
+            "Reduced absorption of nutrients due to poor transport of digested molecules from the intestine to the bloodstream",
+            "Reduced movement of food along the gut due to impaired peristalsis",
+            "Reduced breakdown of proteins and fats due to poor enzyme secretion"
+        ],
+        "correctAnswer": "Reduced absorption of nutrients due to poor transport of digested molecules from the intestine to the bloodstream",
+        "explanation": "If the blood and lymphatic vessels in the submucosa are damaged, nutrients cannot be efficiently transported from the gut into circulation, leading to malnutrition and poor absorption."
+    },
+    {
+        "id": "88A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "The crypts of Lieberkühn are glandular structures found in the small intestine. What is the function of Paneth cells, which are located at the base of these crypts?",
+        "options": [
+            "They absorb nutrients from digested food, aiding in the transport of glucose and amino acids",
+            "They produce mucus to lubricate the intestine and protect epithelial cells",
+            "They secrete antimicrobial proteins and enzymes, protecting actively dividing stem cells from harmful bacteria",
+            "They generate digestive enzymes that break down carbohydrates, proteins, and fats"
+        ],
+        "correctAnswer": "They secrete antimicrobial proteins and enzymes, protecting actively dividing stem cells from harmful bacteria",
+        "explanation": " Paneth cells in the crypts of Lieberkühn secrete antimicrobial substances (such as lysozymes and defensins), which protect stem cells at the base of the crypts from infection.\nTheir dysfunction increases the risk of bacterial overgrowth and inflammation, affecting gut health."
+    },
+    {
+        "id": "89A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "In the small intestine, different types of nutrients are absorbed into different structures. Which of the following correctly describes how nutrients enter the circulatory and lymphatic systems?",
+        "options": [
+            "All nutrients enter blood capillaries, as lacteals only transport waste products",
+            "Fats, amino acids, and monosaccharides all enter lacteals, bypassing blood capillaries",
+            "Amino acids and monosaccharides enter blood capillaries, while fats enter lacteals (lymphatic vessels)",
+            "Only water and minerals are absorbed in the small intestine, while all nutrients enter the bloodstream in the large intestine"
+        ],
+        "correctAnswer": "Amino acids and monosaccharides enter blood capillaries, while fats enter lacteals (lymphatic vessels)",
+        "explanation": "Amino acids and monosaccharides are absorbed into blood capillaries, while fats (lipids) are absorbed into lacteals, which transport them through the lymphatic system before entering the bloodstream."
+    },
+    {
+        "id": "90A2B3C4D",
+        "topic": "Tissues and organs",
+        "subtopic": "",
+        "question": "Different nutrients are absorbed in the small intestine through various mechanisms. Which of the following correctly matches a nutrient with its absorption method?",
+        "options": [
+            "Pinocytosis absorbs large lipid molecules, allowing them to enter blood capillaries directly",
+            "Glucose and amino acids are absorbed by active transport, while fats diffuse into epithelial cells before entering lacteals",
+            "All nutrients are absorbed by simple diffusion, as the intestine does not require energy for absorption",
+            "Amino acids and monosaccharides are absorbed only by pinocytosis, ensuring complete uptake of all nutrients"
+        ],
+        "correctAnswer": "Glucose and amino acids are absorbed by active transport, while fats diffuse into epithelial cells before entering lacteals",
+        "explanation": "Glucose and amino acids require active transport to move into blood capillaries, while fats diffuse through the epithelial membrane before being absorbed into lacteals."
+    },
+    {
+        "id": "91A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "Which statement correctly describes a structural difference between bacteriophages (phages) and HIV?",
+        "options": [
+            "Bacteriophages contain DNA enclosed in a protein coat, while HIV has an RNA genome enclosed in a lipid envelope with glycoproteins",
+            "Both bacteriophages and HIV have a DNA genome, but only HIV has a protein coat",
+            "Bacteriophages lack a protein coat, while HIV contains an RNA genome enclosed in a nucleic acid membrane",
+            "Both bacteriophages and HIV use tail fibers to inject genetic material into host cells"
+        ],
+        "correctAnswer": "Bacteriophages contain DNA enclosed in a protein coat, while HIV has an RNA genome enclosed in a lipid envelope with glycoproteins",
+        "explanation": "Bacteriophages contain DNA enclosed in a protein coat (capsid), while HIV has an RNA genome surrounded by a lipid envelope with surface glycoproteins for host cell attachment."
+    },
+    {
+        "id": "92A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "Unlike bacteriophages, which infect bacteria, HIV specifically targets human immune cells (T-helper cells). How does HIV enter host cells?",
+        "options": [
+            "HIV injects its genetic material into cells using tail fibers, like bacteriophages",
+            "HIV directly fuses with bacterial cell walls, bypassing the need for a receptor",
+            "HIV enters human cells by actively phagocytosing immune cells",
+            "HIV uses glycoproteins (gp120 and gp41) to bind to CD4 receptors on T-helper cells, allowing viral entry"
+        ],
+        "correctAnswer": "HIV uses glycoproteins (gp120 and gp41) to bind to CD4 receptors on T-helper cells, allowing viral entry",
+        "explanation": "HIV binds to CD4 receptors on T-helper cells using gp120 and gp41 glycoproteins, enabling viral fusion and entry."
+    },
+    {
+        "id": "93A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "Why is reverse transcriptase essential for HIV replication?",
+        "options": [
+            "It produces mRNA from the host genome, increasing normal cell function",
+            "It allows HIV to convert its RNA genome into DNA, enabling integration into the host cell’s genome for replication",
+            "It translates viral proteins directly from RNA, bypassing the need for host enzymes",
+            "It directly destroys the immune system by degrading human DNA"
+        ],
+        "correctAnswer": "It allows HIV to convert its RNA genome into DNA, enabling integration into the host cell’s genome for replication",
+        "explanation": "Reverse transcriptase converts HIV’s RNA into viral DNA, allowing integration into the host genome, ensuring long-term infection and replication."
+    },
+    {
+        "id": "94A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "HIV is an enveloped virus with a lipid bilayer containing glycoproteins. What is the primary function of these glycoproteins?",
+        "options": [
+            "They recognize and bind to CD4 receptors on T-helper cells, allowing HIV to enter the host cell",
+            "They store genetic material, ensuring the virus can replicate inside the host",
+            "They provide structural rigidity, preventing the virus from being destroyed by the immune system",
+            "They produce reverse transcriptase, allowing the virus to convert RNA into DNA before infecting the host"
+        ],
+        "correctAnswer": "They recognize and bind to CD4 receptors on T-helper cells, allowing HIV to enter the host cell",
+        "explanation": "HIV’s glycoproteins (gp120 and gp41) on its lipid bilayer bind to CD4 receptors on T-helper cells, enabling the virus to fuse with and enter the host cell. \nWithout functional gp120 glycoproteins, HIV cannot bind to CD4 receptors on T-helper cells, preventing infection."
+    },
+    {
+        "id": "95A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "Viruses cannot reproduce on their own and must replicate inside a host cell. Which of the following correctly describes how viruses replicate and cause cell destruction?",
+        "options": [
+            "Viruses grow and divide like bacteria, forming colonies before attacking host cells",
+            "Viruses use their own ribosomes to synthesize proteins and replicate independently",
+            "Viruses release toxins that dissolve host cells before entering them",
+            "Viruses invade host cells, hijack their machinery to produce new viral particles, and often destroy the host cell when new viruses are released"
+        ],
+        "correctAnswer": "Viruses invade host cells, hijack their machinery to produce new viral particles, and often destroy the host cell when new viruses are released",
+        "explanation": "Viruses inject their genetic material into host cells, forcing them to produce new virus particles, eventually leading to cell destruction as the new viruses are released."
+    },
+    {
+        "id": "96A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "A scientist introduces bacteriophages into a bacterial culture. After some time, many bacterial cells die, and new bacteriophages appear in the solution. What is the most likely explanation for this?",
+        "options": [
+            "The phages injected toxins that dissolved bacterial cells instantly",
+            "The phages invaded bacterial cells, replicated inside them, and caused the bacterial cells to burst, releasing new viruses",
+            "The bacteria died naturally, and the phages multiplied without needing a host",
+            "The phages converted bacteria into viruses, changing their genetic structure"
+        ],
+        "correctAnswer": "The phages invaded bacterial cells, replicated inside them, and caused the bacterial cells to burst, releasing new viruses",
+        "explanation": "Bacteriophages infect bacterial cells, hijack their machinery to replicate, and eventually cause the bacterial cells to burst, releasing new viruses."
+    },
+    {
+        "id": "97A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "HIV is a virus that specifically targets a type of white blood cell in the human body. How does HIV infection weaken the immune system?",
+        "options": [
+            "HIV infects red blood cells, reducing oxygen transport and causing immune suppression",
+            "HIV directly destroys all types of white blood cells, preventing any immune response",
+            "HIV invades helper T-cells, replicates inside them, and destroys them, leading to a weakened immune system",
+            "HIV produces toxins that kill bacteria in the body, preventing the immune system from functioning properly"
+        ],
+        "correctAnswer": "HIV invades helper T-cells, replicates inside them, and destroys them, leading to a weakened immune system",
+        "explanation": "HIV specifically infects helper T-cells, hijacking their cellular machinery to replicate. Over time, the destruction of these cells weakens the immune system, making the body vulnerable to infections."
+    },
+    {
+        "id": "98A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "A patient with advanced HIV infection is found to have a very low number of helper T-cells. What is the most likely consequence?",
+        "options": [
+            "The patient will produce more white blood cells to replace the lost helper T-cells",
+            "The patient’s red blood cell count will decrease, causing oxygen deprivation",
+            "The virus will be eliminated as the immune system learns to recognize HIV",
+            "The immune system becomes weak, making the patient highly vulnerable to infections"
+        ],
+        "correctAnswer": "The immune system becomes weak, making the patient highly vulnerable to infections",
+        "explanation": "Without enough helper T-cells, the immune system cannot effectively fight infections, making the patient highly susceptible to illnesses."
+    },
+    {
+        "id": "99A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "A patient is diagnosed with a bacterial infection that is resistant to antibiotics. The doctor suggests an alternative treatment using bacteriophages instead of antibiotics.\nWhy might bacteriophages be an effective treatment in this case? ",
+        "options": [
+            "Bacteriophages inject their DNA into human cells, helping them produce antibodies faster",
+            "Bacteriophages break down toxins released by bacteria, neutralizing the infection",
+            "Bacteriophages produce antibiotics inside bacterial cells, eliminating resistance",
+            "Bacteriophages specifically infect and kill only bacterial cells, making them useful against antibiotic-resistant bacteria"
+        ],
+        "correctAnswer": "Bacteriophages specifically infect and kill only bacterial cells, making them useful against antibiotic-resistant bacteria",
+        "explanation": "Bacteriophages are viruses that specifically target bacteria, even antibiotic-resistant strains, without harming human cells."
+    },
+    {
+        "id": "100A2B3C4D",
+        "topic": "Viruses",
+        "subtopic": "",
+        "question": "A food processing company is testing a bacteriophage-based spray to kill Salmonella bacteria on raw chicken before packaging.\nWhy might this method be safer than using chemical preservatives?",
+        "options": [
+            "Bacteriophages only infect Salmonella bacteria, leaving beneficial bacteria and human cells unharmed",
+            "Bacteriophages attack all microorganisms in food, making it completely sterile",
+            "Bacteriophages act like antibiotics, remaining in the food to prevent future bacterial infections",
+            "Bacteriophages convert bacteria into human-friendly microbes, improving digestion"
+        ],
+        "correctAnswer": "Bacteriophages only infect Salmonella bacteria, leaving beneficial bacteria and human cells unharmed",
+        "explanation": "Phage therapy is highly specific, meaning bacteriophages only target harmful bacteria like Salmonella, without affecting beneficial bacteria or altering food quality."
+    },
+    {
+        "id": "101A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "Bacterial cells are being observed under an electron microscope. Which of the following structures would be seen?",
+        "options": [
+            "A well-defined nucleus, mitochondria, and large ribosomes, similar to animal cells",
+            "A nuclear membrane enclosing DNA, with mitochondria providing energy for bacterial growth",
+            "A cell wall, circular DNA, and small ribosomes, but no nucleus or mitochondria",
+            "A rough and smooth endoplasmic reticulum, indicating complex protein synthesis"
+        ],
+        "correctAnswer": "A cell wall, circular DNA, and small ribosomes, but no nucleus or mitochondria",
+        "explanation": "Bacteria have circular DNA, small ribosomes, and a cell wall, but they lack nuclei, mitochondria, and endoplasmic reticulum."
+    },
+    {
+        "id": "102A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A scientist treats a bacterial culture with an antibiotic. Some bacteria survive despite the treatment. When analyzing the surviving bacteria, the scientist finds small, circular DNA molecules separate from the bacterial chromosome. \nWhat is the most likely explanation for antibiotic resistance in these bacteria?",
+        "options": [
+            "The bacteria contain plasmids that carry antibiotic resistance genes, allowing them to survive",
+            "The bacteria evolved larger chromosomes, making them resistant to the antibiotic",
+            "The antibiotic only killed eukaryotic cells, leaving the bacteria unaffected",
+            "The bacteria developed mitochondria to break down the antibiotic"
+        ],
+        "correctAnswer": "The bacteria contain plasmids that carry antibiotic resistance genes, allowing them to survive",
+        "explanation": "Plasmids contain extra genes that provide advantages to bacteria, such as antibiotic resistance, and can be transferred between bacteria through horizontal gene transfer."
+    },
+    {
+        "id": "103A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "What organelle is found in both plant and animal cells?",
+        "options": [
+            "Large central vacuole",
+            "Centriole",
+            "Cell wall",
+            "Golgi apparatus"
+        ],
+        "correctAnswer": "Golgi apparatus",
+        "explanation": "The Golgi apparatus is found in both plant and animal cells and functions in modifying, packaging, and transporting proteins and lipids."
+    },
+    {
+        "id": "104A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "The cell contains a nucleus, mitochondria, endoplasmic reticulum, ribosomes, Golgi apparatus, and vesicles, but lacks a cell wall.\nwhat is the most likely classification of this cell?",
+        "options": [
+            "A prokaryotic cell, because it contains ribosomes and vesicles",
+            "A plant cell, since it contains a nucleus and ribosomes",
+            "A bacterium, as all bacteria have mitochondria and ER",
+            "A eukaryotic animal cell, as it contains a nucleus and membrane-bound organelles but lacks a cell wall"
+        ],
+        "correctAnswer": "A eukaryotic animal cell, as it contains a nucleus and membrane-bound organelles but lacks a cell wall",
+        "explanation": "The presence of a nucleus, mitochondria, and ER confirms the cell is eukaryotic, and the absence of a cell wall suggests it is an animal cell."
+    },
+    {
+        "id": "105A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "Which of the following correctly describes a feature of the fluid mosaic model of cell membranes?",
+        "options": [
+            "The membrane is a rigid structure made entirely of proteins, preventing movement of molecules in and out of the cell",
+            "The membrane consists of a phospholipid bilayer with embedded intrinsic and extrinsic proteins, glycoproteins, glycolipids, and cholesterol, making it both fluid and selectively permeable",
+            "The membrane is composed of a single layer of phospholipids, with cholesterol providing structural rigidity instead of proteins",
+            "The membrane allows all substances to pass freely, regardless of size or polarity"
+        ],
+        "correctAnswer": "The membrane consists of a phospholipid bilayer with embedded intrinsic and extrinsic proteins, glycoproteins, glycolipids, and cholesterol, making it both fluid and selectively permeable",
+        "explanation": "The fluid mosaic model describes the membrane as a phospholipid bilayer with embedded proteins, glycoproteins, glycolipids, and cholesterol, giving it flexibility and selective permeability."
+    },
+    {
+        "id": "106A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A mutation in an animal cell that prevents cholesterol from integrating into its membrane. What would be the most likely consequence??",
+        "options": [
+            "The cell would gain extra rigidity, preventing molecules from entering or exiting",
+            "The cell would become completely impermeable, stopping all transport processes",
+            "The membrane would become less stable and more permeable, making the cell vulnerable to environmental changes",
+            "The membrane would function normally, as cholesterol has no effect on membrane properties"
+        ],
+        "correctAnswer": "The membrane would become less stable and more permeable, making the cell vulnerable to environmental changes",
+        "explanation": "Cholesterol provides membrane stability and regulates fluidity, so without it, the membrane would become more permeable and structurally weak."
+    },
+    {
+        "id": "107A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "Which of the following correctly matches a membrane component with its function?",
+        "options": [
+            "Cholesterol functions as a carrier protein, actively transporting molecules across the membrane",
+            "Glycoproteins act as receptors, allowing the cell to recognize and respond to specific signaling molecules",
+            "Hydrophilic channels prevent water-soluble substances from passing through the membrane",
+            "Antigens function as enzymes, speeding up reactions in the phospholipid bilayer"
+        ],
+        "correctAnswer": "Glycoproteins act as receptors, allowing the cell to recognize and respond to specific signaling molecules",
+        "explanation": "Glycoproteins act as receptors, helping cells recognize and bind to hormones, neurotransmitters, and other signaling molecules, allowing for cell communication and triggering specific cellular responses, such as enzyme activation or gene expression."
+    },
+    {
+        "id": "108A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A patient receives an organ transplant but experiences an immune rejection. What is the most likely reason for this?",
+        "options": [
+            "The immune system recognizes the transplanted organ’s antigens as foreign and attacks the new cells",
+            "The transplanted organ lacks a cell membrane, making it unrecognizable to the body",
+            "The antigens on the transplanted organ produce toxins that harm the recipient",
+            "The transplanted organ is unable to communicate with the recipient’s immune system due to missing enzymes"
+        ],
+        "correctAnswer": "The immune system recognizes the transplanted organ’s antigens as foreign and attacks the new cells",
+        "explanation": "If the antigens on the transplanted organ do not match the recipient’s own antigens, the immune system treats the organ as a foreign invader and attacks it, leading to rejection."
+    },
+    {
+        "id": "109A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A researcher treats a cell with a chemical that disrupts organelle membranes but leaves the plasma membrane intact. Which of the following would most likely occur?",
+        "options": [
+            "The cell would lose its shape and immediately burst, as the plasma membrane won't support the structural integrity",
+            "The nucleus would continue to function normally, as its membrane does not interact with the rest of the cell",
+            "The cell would become completely impermeable, preventing all molecular transport",
+            "The functions of membrane-bound organelles (e.g., mitochondria, ER, Golgi apparatus) would be impaired, disrupting cellular processes"
+        ],
+        "correctAnswer": "The functions of membrane-bound organelles (e.g., mitochondria, ER, Golgi apparatus) would be impaired, disrupting cellular processes",
+        "explanation": "Membrane-bound organelles rely on their membranes for function, so disrupting them would impair processes like ATP production, protein synthesis, and intracellular transport."
+    },
+    {
+        "id": "110A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A scientist wants to isolate specific organelles from a eukaryotic cell sample. Which sequence of steps correctly describes the process of homogenization and centrifugation?",
+        "options": [
+            "Homogenization breaks open cells, and centrifugation separates organelles based on their density, with heavier organelles pelleting first",
+            "Centrifugation dissolves cell membranes, releasing organelles into the supernatant for easy collection",
+            "Homogenization spins the sample at high speeds, separating different organelles before breaking the cells",
+            "Organelles are manually removed using a microscope, as centrifugation cannot separate cell components"
+        ],
+        "correctAnswer": "Homogenization breaks open cells, and centrifugation separates organelles based on their density, with heavier organelles pelleting first",
+        "explanation": "Homogenization breaks open cells to release organelles, and centrifugation separates them based on density, with denser organelles pelleting first (e.g., nuclei first, then mitochondria, followed by ribosomes."
+    },
+    {
+        "id": "111A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A scientist treats plant tissue with an enzyme that breaks down calcium pectate in the middle lamella. What effect would this have on the plant cells?",
+        "options": [
+            "The cellulose cell wall would dissolve, causing the protoplast to burst",
+            "The vacuole would shrink, leading to a loss of turgor pressure",
+            "The plant cells would separate from each other, as the middle lamella holds neighboring cell walls together",
+            "The plant cells would become more rigid, strengthening their structure"
+        ],
+        "correctAnswer": "The plant cells would separate from each other, as the middle lamella holds neighboring cell walls together",
+        "explanation": "The middle lamella is composed of calcium pectate, which acts as a 'glue' holding adjacent plant cell walls together. If it breaks down, the cells will separate."
+    },
+    {
+        "id": "112A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A scientist places a plant cell in a highly concentrated salt solution. After some time, they observe that the cell membrane pulls away from the cell wall, but the wall itself remains intact.\nWhich part of the plant cell is shrinking, and why?",
+        "options": [
+            "The protoplast, as water leaves the large vacuole via osmosis, causing the cell membrane to shrink away from the cell wall",
+            "The cell wall, as it contracts in response to water loss",
+            "The middle lamella, as it dissolves due to dehydration",
+            "The cellulose fibers in the cell wall, as they collapse under osmotic pressure"
+        ],
+        "correctAnswer": "The protoplast, as water leaves the large vacuole via osmosis, causing the cell membrane to shrink away from the cell wall",
+        "explanation": "The protoplast (everything inside the cell wall) shrinks when water leaves the vacuole via osmosis, pulling the plasma membrane away from the rigid cell wall in a process called plasmolysis."
+    },
+    {
+        "id": "113A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A scientist is studying a eukaryotic cell with the following characteristics\n\nIt has multiple nuclei within a shared cytoplasm \nIt lacks chloroplasts and cannot photosynthesize \nIt is surrounded by an extracellular wall made of chitin.\n\nWhich type of cell is the scientist most likely observing?",
+        "options": [
+            "A plant cell, because it contains multiple nuclei and a chitinous cell wall",
+            "A bacterial cell, because it has multiple nuclei and a rigid chitin-based wall",
+            "A fungal cell, as it has a multinucleate protoplasm and a cell wall composed of chitin",
+            "An animal cell, because it lacks chloroplasts and is multinucleate"
+        ],
+        "correctAnswer": "A fungal cell, as it has a multinucleate protoplasm and a cell wall composed of chitin",
+        "explanation": "Fungal cells contain multinucleate protoplasm and have a cell wall composed of chitin, distinguishing them from plants (which have cellulose walls) and animals (which lack a cell wall)."
+    },
+    {
+        "id": "114A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A scientist treats plant cells with a chemical that specifically disrupts the thylakoid membranes inside chloroplasts. What is the most likely effect on photosynthesis?",
+        "options": [
+            "The plant will struggle to carry out the light-dependent reactions, reducing ATP and NADPH production",
+            "The plant will continue photosynthesizing normally, as thylakoids are not essential for the process",
+            "The light-independent reactions (Calvin cycle) will stop, preventing oxygen release",
+            "The plant will switch to using mitochondria for photosynthesis instead of chloroplasts"
+        ],
+        "correctAnswer": "The plant will struggle to carry out the light-dependent reactions, reducing ATP and NADPH production",
+        "explanation": "Thylakoids contain pigments and proteins essential for the light-dependent reactions, so damaging them will reduce ATP and NADPH production, slowing photosynthesis."
+    },
+    {
+        "id": "115A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A membrane-bound organelle consists of a network of flattened sacs and tubules with ribosomes attached to its surface.\nWhich organelle is it, and what is its primary function?",
+        "options": [
+            "Smooth endoplasmic reticulum (SER), which synthesizes and transports proteins",
+            "Golgi apparatus, which produces ribosomes for protein synthesis",
+            "Lysosome, which modifies and transports newly synthesized proteins",
+            "Rough endoplasmic reticulum (RER), which synthesizes and transports proteins destined for secretion or membrane insertion"
+        ],
+        "correctAnswer": "Rough endoplasmic reticulum (RER), which synthesizes and transports proteins destined for secretion or membrane insertion",
+        "explanation": "The RER consists of a membrane system with ribosomes attached and is responsible for protein synthesis and transport within the cell."
+    },
+    {
+        "id": "116A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A not membrane-bound organelles that is composed of rRNA and proteins, and functions as the site of protein synthesis in both prokaryotic and eukaryotic cells is ",
+        "options": [
+            "Nucleus, which synthesizes all proteins needed by the cell",
+            "Ribosome, which translates mRNA into polypeptides during protein synthesis",
+            "Lysosome, which digests proteins to recycle amino acids",
+            "Smooth endoplasmic reticulum, which assembles amino acids into proteins"
+        ],
+        "correctAnswer": "Ribosome, which translates mRNA into polypeptides during protein synthesis",
+        "explanation": " Ribosomes are non-membrane-bound structures made of rRNA and proteins that translate mRNA into polypeptide chains, making them the primary site of protein synthesis."
+    },
+    {
+        "id": "117A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A patient has liver damage due to prolonged exposure to toxic substances. The doctor finds that the smooth endoplasmic reticulum in the liver cells is significantly reduced. \nHow would this affect the patient’s ability to process toxins?",
+        "options": [
+            "The patient’s protein synthesis would stop completely",
+            "The liver would struggle to detoxify harmful substances, leading to toxin buildup in the body",
+            "The liver would produce excess enzymes, speeding up detoxification",
+            "The smooth ER would be replaced by rough ER, ensuring continued function"
+        ],
+        "correctAnswer": "The liver would struggle to detoxify harmful substances, leading to toxin buildup in the body",
+        "explanation": "Explanation for question 117. This ensures consistency with Leaving Cert biology style."
+    },
+    {
+        "id": "118A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A patient with smooth endoplasmic reticulum (SER) dysfunction is experiencing chronic fatigue, low blood sugar, and low blood pressure. Blood tests reveal reduced cortisol levels.\nWhat is the most likely cause of these symptoms?",
+        "options": [
+            "The SER directly produces ATP, so its failure leads to energy loss",
+            "The SER breaks down glucose, so its dysfunction causes low blood sugar",
+            "The SER is responsible for steroid hormone production, so its dysfunction leads to reduced cortisol synthesis, causing fatigue, hypotension, and hypoglycemia",
+            "The SER synthesizes insulin, so its failure results in low cortisol"
+        ],
+        "correctAnswer": "The SER is responsible for steroid hormone production, so its dysfunction leads to reduced cortisol synthesis, causing fatigue, hypotension, and hypoglycemia",
+        "explanation": "The SER is essential for steroid hormone production, including cortisol, so its dysfunction can lead to adrenal insufficiency, causing symptoms like fatigue, hypoglycemia, and hypotension."
+    },
+    {
+        "id": "119A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "A scientist observes that during cell division, chromosomes are pulled apart by fibrous structures extending from opposite poles of the cell. These fibers are made of microtubules.\nWhich of the following correctly describes the role of microtubules in the cytoskeleton?",
+        "options": [
+            "Microtubules provide a rigid, immovable structure that prevents organelles from shifting in the cytoplasm",
+            "Microtubules form centrioles and the spindle apparatus, enabling chromosome movement during cell division and transporting organelles within the cell",
+            "Microtubules act as digestive enzymes, breaking down waste materials inside the cell",
+            "Microtubules only exist outside the cell and help in extracellular digestion"
+        ],
+        "correctAnswer": "Microtubules form centrioles and the spindle apparatus, enabling chromosome movement during cell division and transporting organelles within the cell",
+        "explanation": "Microtubules form the spindle apparatus, which moves chromosomes during mitosis and meiosis, and they serve as tracks for intracellular transport of vesicles and organelles."
+    },
+    {
+        "id": "120A2B3C4D",
+        "topic": "Cells",
+        "subtopic": "",
+        "question": "Name a membrane-bound organelle that contains digestive enzymes and is responsible for breaking down waste materials, cellular debris, and invading pathogens",
+        "options": [
+            "Plasmodesmata",
+            "Mitochondria",
+            "Chloroplast",
+            "Lysosome"
+        ],
+        "correctAnswer": "Lysosome",
+        "explanation": "Lysosomes contain hydrolytic enzymes that digest worn-out organelles, cellular debris, and harmful pathogens, playing a crucial role in cellular waste disposal and defense."
+    },
+    {
+        "id": "121A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "When oxygen concentration is higher in the lungs than in the red blood cells, what happens?",
+        "options": ["Oxygen moves out of red blood cells into the lungs through active transport",
+                    "Oxygen diffuses into red blood cells down its concentration gradient, requiring no energy",
+                    "Oxygen enters red blood cells through osmosis, since it is a liquid molecule"
+                   ],
+        "correctAnswer": "Oxygen diffuses into red blood cells down its concentration gradient, requiring no energy",
+        "explanation": "Oxygen moves into red blood cells by simple diffusion, as it follows its concentration gradient and does not require ATP."
+    },
+    {
+        "id": "122A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A scientist places red blood cells into a hypotonic solution (pure water). After some time, the cells swell and burst due to water entering them.\nWhich of the following correctly explains this observation?",
+        "options": ["Water moves into the cells by active transport, forcing them to expand",
+                   "The red blood cells release water into the solution, causing them to burst",
+                   "Water moves into the red blood cells by osmosis due to a lower water potential (ψcell) inside the cells compared to the surrounding solution, causing lysis"
+                   ],
+        "correctAnswer": "Water moves into the red blood cells by osmosis due to a lower water potential (ψcell) inside the cells compared to the surrounding solution, causing lysis",
+        "explanation": "In a hypotonic solution, water moves into the red blood cells by osmosis due to a lower water potential inside the cells, causing them to swell and burst (lysis)."
+    },
+    {
+        "id": "123A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A farmer notices that plants in a dry environment begin to wilt. What is the most likely explanation based on water potential?",
+        "options": ["The soil has a lower water potential than the plant cells, causing water to leave the cells, reducing turgor pressure, and leading to wilting",
+                   "The plant cells absorb more water, increasing their pressure potential (ψp), making them rigid",
+                   "The plant cells undergo lysis due to water influx, causing structural damage"
+                   ],
+        "correctAnswer": "The soil has a lower water potential than the plant cells, causing water to leave the cells, reducing turgor pressure, and leading to wilting",
+        "explanation": " When the soil has a lower water potential, water moves out of the plant cells by osmosis, reducing turgor pressure and causing wilting."
+    },
+    {
+        "id": "124A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "Glucose molecules are entering a cell without requiring ATP, but the process involves specific membrane proteins.\nWhich of the following best explains this observation?",
+        "options": ["Glucose is broken down in the membrane before entering the cell, allowing it to pass freely",
+                   "Glucose enters by simple diffusion, passing directly through the lipid bilayer",
+                   "Glucose enters the cell via facilitated diffusion, where carrier or channel proteins help transport large molecules down their concentration gradient"
+                   ],
+        "correctAnswer": "Glucose enters the cell via facilitated diffusion, where carrier or channel proteins help transport large molecules down their concentration gradient",
+        "explanation": "Facilitated diffusion is a passive process that uses carrier or channel proteins to transport large or charged molecules like glucose and ions across the membrane."
+    },
+    {
+        "id": "125A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "In an experiment it's observed that sodium ions (Na⁺) are being transported out of a cell, even though their concentration is higher outside than inside. This process requires ATP and uses a specific membrane protein.\nWhich of the following best describes this transport mechanism?",
+        "options": ["Active transport, as membrane carriers use ATP to move substances against their concentration gradient",
+                   "Facilitated diffusion, because carrier proteins are used without energy expenditure",
+                   "Simple diffusion, because sodium ions pass freely through the lipid bilayer",
+                   "Osmosis, as sodium is moving through a water channel"
+                   ],
+        "correctAnswer": "Active transport, as membrane carriers use ATP to move substances against their concentration gradient",
+        "explanation": "Active transport moves molecules against their concentration gradient using ATP and carrier proteins."
+    },
+    {
+        "id": "126A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A white blood cell is engulfing a bacterial cell, enclosing it within a vesicle before digesting it with enzymes.\nWhich type of endocytosis is occurring in this process?",
+        "options": ["Pinocytosis, as the cell is engulfing fluid droplets",
+                   "Phagocytosis, as the cell engulfs large solid particles like bacteria into vesicles for digestion",
+                   "Exocytosis, since the cell is releasing fluid instead of absorbing it"
+                   ],
+        "correctAnswer": "Phagocytosis, as the cell engulfs large solid particles like bacteria into vesicles for digestion",
+        "explanation": "Phagocytosis is a type of endocytosis where a cell engulfs large solid particles (e.g., bacteria) by surrounding them with a membrane, forming a vesicle for digestion."
+    },
+    {
+        "id": "127A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A researcher is studying intestinal cells that use pinocytosis to absorb nutrients dissolved in extracellular fluid. The researcher applies a drug that blocks vesicle formation in these cells.\nWhat is the most likely effect of this drug?",
+        "options": ["The cell would be unable to absorb dissolved nutrients from the extracellular fluid, leading to nutrient deficiencies",
+                   "The cell would switch to active transport to take in large fluid droplets",
+                   "The cell would begin phagocytosis to replace pinocytosis"
+                   ],
+        "correctAnswer": "The cell would be unable to absorb dissolved nutrients from the extracellular fluid, leading to nutrient deficiencies",
+        "explanation": "If vesicle formation is blocked, the cell cannot perform pinocytosis and will be unable to take in dissolved nutrients from the surrounding fluid.\nA cell cannot use phagocytosis to absorb small solutes dissolved in extracellular fluid.\nActive transport cannot take in large volumes of extracellular fluid  the way pinocytosis does."
+    },
+    {
+        "id": "128A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A scientist observes a cell releasing large molecules, such as hormones and enzymes, by packaging them into vesicles that fuse with the plasma membrane before expelling their contents.\nWhich process is the cell using?",
+        "options": ["Endocytosis, because the cell is engulfing material from its surroundings",
+                   "Exocytosis, as vesicles fuse with the membrane to release substances from the cell",
+                   "Facilitated diffusion, since the molecules move through protein channels",
+                   "Active transport, as ATP is used to move substances into the cell"
+                   ],
+        "correctAnswer": "Exocytosis, as vesicles fuse with the membrane to release substances from the cell",
+        "explanation": "Exocytosis is the process where vesicles containing molecules fuse with the plasma membrane and release their contents outside the cell"
+    },
+    {
+        "id": "129A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A patient has a disorder where insulin is not being properly released from pancreatic cells into the bloodstream. The doctor suspects an issue with vesicle fusion in exocytosis.\nWhat is the most likely explanation for this condition?",
+        "options": ["The vesicles carrying insulin cannot fuse with the plasma membrane, preventing exocytosis and release of insulin into the blood",
+                   "Insulin is transported by endocytosis into the bloodstream",
+                   "Insulin molecules are too large to pass through protein channels, so they dissolve in the cell instead"
+                   ],
+        "correctAnswer": "The vesicles carrying insulin cannot fuse with the plasma membrane, preventing exocytosis and release of insulin into the blood",
+        "explanation": "Insulin is packaged in vesicles and released by exocytosis. If vesicle fusion is impaired, insulin cannot be secreted properly, leading to blood sugar regulation problems."
+    },
+    {
+        "id": "130A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A scientist compares the movement of oxygen (O₂), glucose, and cholesterol across the plasma membrane.\nWhich of the following would be expected?",
+        "options": ["Oxygen and glucose require active transport, while cholesterol dissolves in water before entering the cell",
+                   "Cholesterol and glucose move freely, but oxygen requires a protein channel",
+                   "Oxygen and cholesterol diffuse freely through the phospholipid bilayer, while glucose requires transport proteins"
+                   ],
+        "correctAnswer": "Oxygen and cholesterol diffuse freely through the phospholipid bilayer, while glucose requires transport proteins",
+        "explanation": "Oxygen (small, non-polar) and cholesterol (fat-soluble) pass directly through the bilayer, while glucose (large and polar) requires transport proteins."
+    },
+    {
+        "id": "131A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A scientist observes that ions and water-soluble molecules are crossing the cell membrane without interacting with the phospholipid bilayer. Instead, they are passing through specific protein structures embedded in the membrane.\nWhich of the following best explains how water-soluble substances move across the membrane?",
+        "options": ["Water-soluble molecules and ions move through hydrophilic protein channels, as they cannot pass through the hydrophobic phospholipid bilayer",
+                   "Water-soluble molecules dissolve in the hydrophobic core of the bilayer and pass through by simple diffusion",
+                   "Water-soluble molecules enter the cell via endocytosis, as the membrane engulfs them into vesicles"
+                   ],
+        "correctAnswer": "Water-soluble molecules and ions move through hydrophilic protein channels, as they cannot pass through the hydrophobic phospholipid bilayer",
+        "explanation": "Hydrophilic protein channels allow water-soluble molecules (e.g., ions, glucose) to cross the membrane, as these substances cannot diffuse through the hydrophobic phospholipid bilayer."
+    },
+    {
+        "id": "132A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "Glucose molecules are entering a cell, but unlike ions, glucose does not pass through hydrophilic channels. Instead, it binds to a specific membrane protein, which changes shape to transport it across the membrane.\nWhich of the following best describes the role of membrane carrier proteins in transport?",
+        "options": ["Carrier proteins move molecules only through passive diffusion, never requiring ATP",
+        "Carrier proteins allow gases like oxygen to dissolve directly into the membrane",
+        "Carrier proteins transport specific molecules by changing shape, allowing substances like glucose to cross the membrane"
+        ],
+        "correctAnswer": "Carrier proteins transport specific molecules by changing shape, allowing substances like glucose to cross the membrane",
+        "explanation": "Carrier proteins facilitate the transport of specific molecules (e.g., glucose) by undergoing conformational changes that move the substance across the membrane."
+    },
+    {
+        "id": "133A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A plant cell has the following values for its solute potential (ψs) and pressure potential (ψp)\nSolute potential (ψs) = -0.8 MPa\nPressure potential (ψp) = 0.4 MPa\n\nWhat is the water potential (ψcell) of the plant cell?",
+        "options": ["-0.4 MPa",
+                   "0.4 MPa",
+                   "-1.2 MPa",
+                   "1.2 MPa"
+                   ],
+        "correctAnswer": "-0.4 MPa",
+        "explanation": "Water potential (ψcell) is calculated as the sum of solute potential and pressure potential: ψcell = ψs + ψp = (-0.8 MPa) + (0.4 MPa) = -0.4 MPa."
+    },
+    {
+        "id": "134A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A plant cell has a water potential (ψcell) of -0.4 MPa, and it is placed in a solution with a water potential (ψsolution) of -0.6 MPa.\nWhat will happen to the cell?",
+        "options": ["No net movement of water will occur, as water potential is irrelevant",
+                   "Water will enter the cell, as it has a lower water potential than the solution",
+                   "Water will leave the cell, as the external solution has a lower water potential"
+                   ],
+        "correctAnswer": "Water will leave the cell, as the external solution has a lower water potential",
+        "explanation": "Water moves from a higher (less negative) water potential to a lower (more negative) water potential, so water will leave the cell, potentially leading to plasmolysis."
+    },
+    {
+        "id": "135A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A farmer wants to store freshly harvested potatoes for long periods without losing water. Which of the following would be the best storage solution based on water potential principles?",
+        "options": ["Store the potatoes in dry air to allow controlled dehydration",
+                   "Store the potatoes in a solution with the same water potential as their cells to prevent water loss or gain",
+                   "Store the potatoes in pure water to maximize water absorption"
+                   ],
+        "correctAnswer": "Store the potatoes in a solution with the same water potential as their cells to prevent water loss or gain",
+        "explanation": " Storing potatoes in an isotonic solution (same water potential) prevents water loss or gain, maintaining their texture and mass."
+    },
+    {
+        "id": "136A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A food scientist is testing the water retention of different potato varieties for use in frozen French fries. The goal is to find a potato variety that retains water well, preventing shrinkage during freezing.\nWhich of the following would be the best choice for frozen fries?",
+        "options": ["A variety with the highest percentage mass loss, meaning it releases water easily",
+                   "A variety that absorbs the most water, leading to swelling before freezing",
+                   "A variety with the lowest percentage mass loss in a standard water potential test, meaning it holds water well"
+                   ],
+        "correctAnswer": "A variety with the lowest percentage mass loss in a standard water potential test, meaning it holds water well",
+        "explanation": "Potatoes that retain water well (low percentage mass loss) will prevent shrinkage and maintain texture when frozen."
+    },
+    {
+        "id": "137A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A student conducts an experiment to determine the average solute potential (ψs) of plant cells by calculating percentage plasmolysis. The student follows these steps\n1)places onion epidermal cells in different sucrose solutions \n2)observes cells under a microscope to count those that have undergone plasmolysis. \n3)identifies the solution where 50% of cells show plasmolysis(incipient plasmolysis)\n\n4)Why is this method used to estimate the solute potential (ψs) of the plant cells?",
+        "options": ["At incipient plasmolysis, the external solution has the same solute potential as the cell’s cytoplasm, meaning no net movement of water",
+                   "At incipient plasmolysis, the cell wall dissolves, allowing direct measurement of solute potential",
+                   "The vacuole expands, increasing turgor pressure and making plasmolysis measurable"
+                   ],
+        "correctAnswer": "At incipient plasmolysis, the external solution has the same solute potential as the cell’s cytoplasm, meaning no net movement of water",
+        "explanation": "At incipient plasmolysis, the water potential inside the cell equals that of the external solution, meaning no net osmosis, allowing solute potential (ψs) to be determined."
+    },
+    {
+        "id": "138A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "When 50% of onion epidermal cells are plasmolyzed in a specific sucrose concentration, what does this indicate about the pressure potential (ψp) inside the cells?",
+        "options": ["At 50% plasmolysis, the pressure potential (ψp) is at its highest, making the cell fully turgid",
+                   "At 50% plasmolysis, the average pressure potential (ψp) is zero, meaning the cell wall is no longer exerting pressure on the protoplast",
+                   "The pressure potential (ψp) increases, causing water to enter the cell rapidly",
+                    "The solute potential (ψs) inside the cell becomes positive, reversing osmosis"
+                   ],
+        "correctAnswer": "At 50% plasmolysis, the average pressure potential (ψp) is zero, meaning the cell wall is no longer exerting pressure on the protoplast",
+        "explanation": "At 50% plasmolysis, the protoplast has just begun to detach from the cell wall, meaning the turgor pressure (ψp) has dropped to zero."
+    },
+    {
+        "id": "139A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A scientist modifies the phospholipid bilayer of a cell to increase its cholesterol content.\nWhat effect would this most likely have on membrane permeability?",
+        "options": ["The membrane would only allow water to enter, blocking all other molecules",
+                   "The membrane would become more permeable to all substances",
+                   "The membrane would become less permeable to water and small polar molecules, as cholesterol reduces phospholipid movement"
+                   ],
+        "correctAnswer": "The membrane would become less permeable to water and small polar molecules, as cholesterol reduces phospholipid movement",
+        "explanation": "Cholesterol stabilizes the membrane, reducing its fluidity and making it less permeable to small polar molecules like water."
+    },
+    {
+        "id": "140A2B3C4D",
+        "topic": "Cell physiology",
+        "subtopic": "",
+        "question": "A patient has a genetic mutation that prevents sodium (Na⁺) channels from functioning properly. This leads to muscle weakness and nerve signal disruption.\nWhat is the most likely reason for these symptoms?",
+        "options": ["Sodium ions (Na⁺) cannot pass through the membrane without hydrophilic protein channels, affecting nerve impulses and muscle contractions",
+                   "The body switches to using potassium ions instead of sodium for nerve signaling",
+                   "Sodium ions diffuse freely across the membrane, causing energy loss"
+                   ],
+        "correctAnswer": "Sodium ions (Na⁺) cannot pass through the membrane without hydrophilic protein channels, affecting nerve impulses and muscle contractions",
+        "explanation": "Ions like sodium require hydrophilic channels to cross the membrane. If these channels are defective, nerve impulses and muscle function are impaired."
+    },
+    {
+        "id": "141A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "Fennec foxes living in the deserts developed large ears that help dissipate heat. What type of adaptation does this show?",
+        "options": ["Physiological",
+                   "Morphological",
+                   "Behavioral"
+                   ],
+        "correctAnswer": "Morphological",
+        "explanation": "Fennec foxes have adaptations that promote heat dissipation, demonstrating morphological adaptation to environmental challenges"
+    },
+    {
+        "id": "142A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "A researcher examines two plants from extreme environments. Plant A has needle-like leaves, a thick cuticle, deep roots, and stomata that open at night. Plant B has thin leaves, stomata on the upper surface, and air-filled tissues for floating. Which environments do these plants most likely belong to?",
+        "options": ["Plant A is a hydrophyte adapted to aquatic environments, while Plant B is a xerophyte adapted to deserts",
+                   "Plant A is a xerophyte adapted to deserts, while Plant B is a hydrophyte adapted to aquatic environments",
+                   "Both plants are xerophytes",
+                    "Both plants are hydrophytes"
+                   ],
+        "correctAnswer": "Plant A is a xerophyte adapted to deserts, while Plant B is a hydrophyte adapted to aquatic environments",
+        "explanation": "Plant A has xerophytic adaptations for drought survival (e.g., needle-like leaves, thick cuticle, CAM photosynthesis), while Plant B has hydrophytic adaptations for floating and gas exchange in water."
+    },
+    {
+        "id": "143A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "A scientist studies the effect of light quality (wavelength) on the growth of two plant species\nPlant A grows best under red and blue light.\nPlant B grows best under green light.\n\nThe scientist places both plants in a shaded forest where most light is green. Which plant is most likely to be dominant in this habitat?",
+        "options": ["Plant B, since it can efficiently use green light for photosynthesis",
+                    "Plant A, since it grows best under red and blue light",
+                   "Both plants will grow equally well, as light quality does not influence distribution",
+                   "Neither plant will survive, as all plants need full-spectrum light"
+                   ],
+        "correctAnswer": "Plant B, since it can efficiently use green light for photosynthesis",
+        "explanation": "Plant B will dominate because it can use the available green light for photosynthesis, while Plant A will struggle to grow."
+    },
+    {
+        "id": "144A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "A farmer notices that corn plants in one section of a field are stunted and have yellowing leaves, while another section has healthy, dark green plants. The farmer conducts a soil test and finds low nitrogen levels in the section with yellowing leaves and higher nitrogen levels in the section with healthy plants. What is the most likely reason for this difference in plant growth?",
+        "options": ["The yellowing plants are adapted to low nitrogen and require fewer nutrients",
+                   "The stunted plants suffer from low aeration",
+                   "Nitrogen is essential for chlorophyll production, so a deficiency leads to stunted growth and yellowing leaves"],
+        "correctAnswer": "Nitrogen is essential for chlorophyll production, so a deficiency leads to stunted growth and yellowing leaves",
+        "explanation": "Nitrogen is a key macronutrient needed for protein synthesis and chlorophyll production, so a deficiency results in reduced growth and chlorosis (yellowing)."
+    },
+    {
+        "id": "145A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "Which of the following best defines an ecological niche?",
+        "options": ["An ecological niche refers only to an organism’s diet and has no connection to competition or behavior",
+                   "An ecological niche is the physical location where an organism lives, without considering its interactions",
+                   "An ecological niche describes the role an organism plays in its ecosystem, including its habitat, interactions, and resource use"
+                   ],
+        "correctAnswer": "An ecological niche describes the role an organism plays in its ecosystem, including its habitat, interactions, and resource use",
+        "explanation": "An ecological niche includes an organism’s role in the ecosystem, its interactions with other organisms, and how it utilizes resources such as food, space, and shelter."
+    },
+    {
+        "id": "146A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "A scientist studies the effect of competition between two species of barnacles living on the same rocky shore. Species A dominates the lower intertidal zone where food is more abundant. Species B is restricted to the upper intertidal zone where food is scarce. What is the most likely explanation for this distribution pattern?",
+        "options": ["Species A outcompetes Species B in the lower intertidal zone, forcing Species B into a less favorable habitat",
+                   "Species B prefers the upper intertidal zone and actively avoids competition",
+                   "Species A and B have identical ecological niches, allowing them to coexist everywhere"
+                   ],
+        "correctAnswer": "Species A outcompetes Species B in the lower intertidal zone, forcing Species B into a less favorable habitat",
+        "explanation": "Competition forces Species B into a less favorable habitat because Species A is better adapted to exploiting food resources in the lower intertidal zone."
+    },
+    {
+        "id": "147A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "A group of ecologists is investigating the distribution and abundance of plant species in a grassland habitat. They decide to place quadrats randomly across different areas to estimate population sizes.\nWhich sampling method are they using?",
+        "options": ["Line transect sampling, since quadrats are placed along a straight line",
+                   "Belt transect sampling, since quadrats are placed in continuous strips",
+                   "Random sampling, as quadrats are placed without bias to obtain an unbiased estimate of population distribution",
+                    "Systematic sampling, since all quadrats are placed in a grid pattern"
+                   ],
+        "correctAnswer": "Random sampling, as quadrats are placed without bias to obtain an unbiased estimate of population distribution",
+        "explanation": "Random sampling ensures an unbiased estimate of plant distribution by placing quadrats in different locations without preference for any particular area."
+    },
+    {
+        "id": "148A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "Two ecologists are studying how vegetation changes across a sand dune habitat. Ecologist A records plant species by laying out a tape measure and recording species at fixed points along it. Ecologist B places quadrats continuously along the transect to record plant coverage and abundance. Which statement best describes the differences in their methods?",
+        "options": ["Ecologist A is using a line transect (recording species at intervals), while Ecologist B is using a belt transect (recording species in a continuous strip)",
+                   "Both ecologists are using the same method, as line and belt transects are identical",
+                   "Ecologist A is using random sampling, while Ecologist B is using a mark-recapture technique",
+                   "Belt transects only measure soil conditions, while line transects count species"],
+        "correctAnswer": "Ecologist A is using a line transect (recording species at intervals), while Ecologist B is using a belt transect (recording species in a continuous strip)",
+        "explanation": "A line transect records species at intervals along a line, while a belt transect provides a more detailed record by using quadrats along a continuous strip."
+    },
+    {
+        "id": "149A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "A scientist studies how soil pH and competition affect the distribution of two grass species in a meadow.\nSpecies A dominates in areas with pH 6.5–7.0.\nSpecies B is more common in acidic soils (pH <6.0).\nBoth species compete for the same space in areas with intermediate pH.\nWhich statement best explains the observed distribution?",
+        "options": ["Biotic factors alone determine species distribution, with no influence from soil pH",
+                   "Competition forces Species A into more acidic soils",
+                   "Soil pH influences species distribution, while competition affects where species can coexist"
+                   ],
+        "correctAnswer": "Soil pH influences species distribution, while competition affects where species can coexist",
+        "explanation": "Abiotic factors (soil pH) determine where each species can thrive, while competition limits where they coexist."
+    },
+    {
+        "id": "150A2B3C4D",
+        "topic": "The adaptation of organisms",
+        "subtopic": "",
+        "question": "A team of ecologists is conducting a habitat survey to measure species abundance and the environmental factors affecting their distribution.\nWhich of the following methods is correctly matched with what it measures?",
+        "options": ["Percentage cover estimates the proportion of ground covered by a species within a quadrat",
+                   "Species frequency measures the number of individual organisms per unit area",
+                   "Species density records how often a species is found in different habitats"
+                   ],
+        "correctAnswer": "Percentage cover estimates the proportion of ground covered by a species within a quadrat",
+        "explanation": "Percentage cover is an estimate of how much ground is covered by a species within a quadrat, useful for assessing vegetation density without counting individual plants."
+    },
+    
+    {
+        "id": "151A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Water as solvent",
+        "question": "Solvent properties of water are largely due to its ",
+        "options": [
+            "dipolar nature and hydrogen bonding",
+            "high boiling point and surface tension",
+            "non-polar covalent bonds and low density",
+            "lack of interaction with charged particles"
+        ],
+        "correctAnswer": "dipolar nature and hydrogen bonding",
+        "explanation": "Water is a polar molecule, allowing it to dissolve ionic and polar substances. Hydrogen bonding helps keep solutes in solution, making water an effective biological solvent."
+    },
+    {
+        "id": "152A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Water as solvent",
+        "question": "Water dissolves molecules ",
+        "options": [
+            "",
+            "",
+            "glucose, amino acids, and salts",
+            ""
+        ],
+        "correctAnswer": "glucose, amino acids, and salts",
+        "explanation": "Water is a polar molecule, allowing it to dissolve ionic and polar substances. Hydrogen bonding helps keep solutes in solution, making water an effective biological solvent."
+    },
+    {
+        "id": "152A2B3C4D",
+        "topic": "Molecules",
+        "subtopic": "Water as solvent",
+        "question": "Solvent properties of water are largely due to its ",
+        "options": [
+            "dipolar nature and hydrogen bonding",
+            "high boiling point and surface tension",
+            "non-polar covalent bonds and low density",
+            "lack of interaction with charged particles"
+        ],
+        "correctAnswer": "dipolar nature and hydrogen bonding",
+        "explanation": "Water is a polar molecule, allowing it to dissolve ionic and polar substances. Hydrogen bonding helps keep solutes in solution, making water an effective biological solvent."
+    },
+    
+    
+]
+
